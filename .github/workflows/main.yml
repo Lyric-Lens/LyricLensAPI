@@ -11,4 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: npm install
-      - run: node index.mjs
+      - run: |
+          node index.mjs
+          # Close the server immediately after starting it
+          pkill -2 node
