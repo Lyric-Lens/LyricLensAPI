@@ -4,10 +4,14 @@
 // 2. USERS ENDPOINTS
 // 2.1 GET user details by ID
 
+// 3. MUSIC ENDPOINTS
+// 3.1 POST search music
+
 import express from 'express';
 import bcrypt from 'bcrypt';
 import { MongoClient } from 'mongodb';
 import dotenv from 'dotenv';
+import { searchMusics } from 'node-youtube-music'
 
 const app = express();
 
@@ -123,6 +127,34 @@ app.get('/v1/users/:email', async (req, res) => {
       res.status(401).send({
         message: "User not found or authenticated",
       })
+    }
+  }
+  catch (error) {
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    });
+  }
+})
+
+// 3.1 POST search music
+app.post('/v1/searchMusic', async (req, res) => {
+  try {
+    // Authorize user request
+    const token = req.header('Authorization').replace('Bearer ', '');
+    if (token) {
+      const user = await db.collection('users').findOne({ token });
+      if (user) {
+        // Get search query
+        const results = await searchMusics(req.body.search);
+        res.status(200).send({
+          message: "Search successful",
+          results: results
+        })
+      } else {
+        res.status(401).send({
+          message: "User not found or authenticated",
+        })
+      }
     }
   }
   catch (error) {
