@@ -46,7 +46,7 @@ app.use((req, res, next) => {
 // 1. Authentication
 app.post('/v1/authentication', async (req, res) => {
   try {
-    const { email, password } = req.body;
+    const { email, username, password } = req.body;
 
     // Query if email already exists
     const user = await db.collection('users').findOne({ email });
@@ -82,9 +82,15 @@ app.post('/v1/authentication', async (req, res) => {
       // Create new user
       const newUser = await db.collection('users').insertOne({
         email,
+        username,
         password: hashedPassword,
         photo: null,
         'rec-metadata': [],
+        stats: {
+          'listening_time': 0,
+          'music_count': 0,
+          'playlist_count': 0,
+        },
         token: null,
       });
 
