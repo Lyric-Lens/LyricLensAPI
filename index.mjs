@@ -9,7 +9,7 @@
 
 import express from 'express';
 import bcrypt from 'bcrypt';
-import { MongoClient } from 'mongodb';
+import { MongoClient, ObjectId } from 'mongodb';
 import dotenv from 'dotenv';
 import { searchMusics } from 'node-youtube-music'
 
@@ -23,7 +23,7 @@ let db;
 
 (async () => {
   try {
-    const client = await MongoClient.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true });
+    const client = await MongoClient.connect(process.env.MONGODB_URI);
     db = client.db('lyric-lens');
   } catch (error) {
     console.error(error);
@@ -46,7 +46,7 @@ app.use((req, res, next) => {
 // 1. Authentication
 app.post('/v1/authentication', async (req, res) => {
   try {
-    const { email, password } = req.body;
+    const { email, username, password } = req.body;
 
     // Query if email already exists
     const user = await db.collection('users').findOne({ email });
@@ -67,7 +67,7 @@ app.post('/v1/authentication', async (req, res) => {
 
         res.status(200).send({
           message: "Authentication successful",
-          email: user.email,
+          userId: user._id,
           token: token,
         });
       } else {
@@ -82,9 +82,15 @@ app.post('/v1/authentication', async (req, res) => {
       // Create new user
       const newUser = await db.collection('users').insertOne({
         email,
+        username,
         password: hashedPassword,
         photo: null,
         'rec-metadata': [],
+        stats: {
+          'listening_time': 0,
+          'music_count': 0,
+          'playlist_count': 0,
+        },
         token: null,
       });
 
@@ -99,7 +105,7 @@ app.post('/v1/authentication', async (req, res) => {
 
       res.status(200).send({
         message: "Authentication successful",
-        email: email,
+        userId: newUser.insertedId,
         token: token,
       });
     }
@@ -112,11 +118,11 @@ app.post('/v1/authentication', async (req, res) => {
 
 
 // 2.1 GET user details by ID
-app.get('/v1/users/:email', async (req, res) => {
+app.get('/v1/users/:id', async (req, res) => {
   try {
-    const email = req.params.email;
+    const id = req.params.id;
     const token = req.header('Authorization').replace('Bearer ', '');
-    const user = await db.collection('users').findOne({ email });
+    const user = await db.collection('users').findOne({ _id: new ObjectId(id) });
 
     if (user && user.token === token) {
       res.status(200).send({
@@ -130,6 +136,7 @@ app.get('/v1/users/:email', async (req, res) => {
     }
   }
   catch (error) {
+    console.log(error);
     res.status(500).send({
       message: "Something went wrong with the server",
     });
