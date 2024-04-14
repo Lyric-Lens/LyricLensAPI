@@ -6,12 +6,14 @@
 
 // 3. MUSIC ENDPOINTS
 // 3.1 POST search music
+// 3.2 GET lyrics
 
 import express from 'express';
 import bcrypt from 'bcrypt';
 import { MongoClient, ObjectId } from 'mongodb';
 import dotenv from 'dotenv';
 import { searchMusics } from 'node-youtube-music'
+import { GoogleGenerativeAI, HarmBlockThreshold, HarmCategory } from '@google/generative-ai';
 
 const app = express();
 
@@ -110,6 +112,7 @@ app.post('/v1/authentication', async (req, res) => {
       });
     }
   } catch (error) {
+    console.log(error);
     res.status(500).send({
       message: "Something went wrong with the server",
     });
@@ -171,5 +174,138 @@ app.post('/v1/searchMusic', async (req, res) => {
   }
 })
 
-const PORT = process.env.PORT || 3000;
+// 3.2 GET lyrics
+app.get('/v1/lyrics/:author/:title/:yt_id', async (req, res) => {
+  try {
+    // Authorize user request
+    const token = req.header('Authorization').replace('Bearer ', '');
+    if (token) {
+      const user = await db.collection('users').findOne({ token });
+      if (user) {
+        // Check if music already exist in database
+        const music = await db.collection('lyrics').findOne({ yt_id: req.params.yt_id });
+        if (music) {
+          res.status(200).send({
+            message: "Lyrics found in database",
+            lyrics: music.lyrics
+          })
+        } else {
+          // fetch(`https://lyrics-finder-api.vercel.app/lyrics?song=${req.params.title + ' ' + req.params.author}`) // Without timestamps
+          fetch(`http://localhost:80/LyricLensAPI/lyrics/lyrics.php?q=${req.params.title + ' ' + req.params.author}&type=default`) // With timestamps
+            .then((response) => response.json())
+            .then((data) => {
+              res.status(200).send({
+                message: "Lyrics found",
+                lyrics: data
+              })
+            })
+            .catch((err) => {
+              console.log(err);
+              res.status(500).send({
+                message: "Something went wrong with the server",
+              })
+            });
+        }
+      }
+    }
+  }
+  catch (error) {
+    console.log(error);
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    })
+  }
+})
+
+// 3.3 POST lyrics to Gemini
+app.post('/v1/lyrics/gemini', async (req, res) => {
+  try {
+    // Authorize user request
+    const token = req.header('Authorization').replace('Bearer ', '');
+    if (token) {
+      const user = await db.collection('users').findOne({ token });
+      if (user) {
+        // Check if music already stored in database, both by yt id and by author and title
+        const music = await db.collection('musics').findOne({ yt_id: req.body.youtubeId })
+        // Use existing data
+        if (music) {
+          res.status(200).send({
+            message: "Music already stored in database",
+            interpretation: music.interpretation,
+          })
+        }
+        // Query Gemini for interpretation
+        else {
+          async function run() {
+            const Gemini = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+            const model = Gemini.getGenerativeModel({ model: "gemini-1.0-pro" });
+            let lyricsFull = [];
+            req.body.lyrics.forEach(lyric => {
+              lyricsFull.push(lyric.lyrics);
+            })
+            const prompt = lyricsFull.join('\n');
+      
+            const generationConfig = {
+              temperature: 0.9,
+              topK: 1,
+              topP: 1,
+              maxOutputTokens: 256,
+            };
+      
+            const safetySettings = [
+              {
+                category: HarmCategory.HARM_CATEGORY_HARASSMENT,
+                threshold: HarmBlockThreshold.BLOCK_NONE,
+              },
+              {
+                category: HarmCategory.HARM_CATEGORY_HATE_SPEECH,
+                threshold: HarmBlockThreshold.BLOCK_NONE,
+              },
+              {
+                category: HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
+                threshold: HarmBlockThreshold.BLOCK_NONE,
+              },
+              {
+                category: HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
+                threshold: HarmBlockThreshold.BLOCK_NONE,
+              },
+            ];
+          
+            const chat = model.startChat({
+              generationConfig,
+              safetySettings,
+              history: [
+              ],
+            });
+          
+            const result = await chat.sendMessage(prompt + '\n \n' + "Analyze and explain the meaning of the song lyrics above in very short and concise manner, if possible below 4 sentences (1 paragraph). Do not assume the title or the author of the song.");
+            const response = result.response;
+
+            // Save data to database before finish
+            const newMusic = db.collection('musics').insertOne({
+              yt_id: req.body.youtubeId,
+              title: req.body.title,
+              author: req.body.author,
+              thumbnail: req.body.thumbnail,
+              lyrics: req.body.lyrics,
+              interpretation: response.text(),
+              is_reviewed: false
+            });
+      
+            return { 'message': "Response by Gemini success", 'ai_request': prompt + '\n \n' + "Analyze and explain the meaning of the song lyrics above in very short and concise manner, if possible below 4 sentences (1 paragraph). Do not assume the title or the author of the song", 'interpretation': response.text() };
+          }
+          res.status(200).send(await run());
+        }
+      }
+    }
+  }
+  catch (error) {
+    console.log(error);
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    })
+  }
+})
+
+const PORT = process.env.PORT;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
