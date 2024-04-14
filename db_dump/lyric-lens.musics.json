@@ -1,0 +1,6160 @@
+[{
+  "_id": {
+    "$oid": "661b8d3da65a317ca0dd9a95"
+  },
+  "yt_id": "lYBUbBu4W08",
+  "title": "Never Gonna Give You Up",
+  "author": "Rick Astley",
+  "thumbnail": "https://lh3.googleusercontent.com/eC9DfRcYSk4FE-fvDCJSu_4xsKdVMKxwmFTYFZwP8OqB7R4TKxAjKoR-Kp1lXeRi2WddPFYulSte4eW-=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 18,
+      "lyrics": "We're no strangers to love"
+    },
+    {
+      "timestamp": 22,
+      "lyrics": "You know the rules and so do I (do I)"
+    },
+    {
+      "timestamp": 26,
+      "lyrics": "A full commitment's what I'm thinking of"
+    },
+    {
+      "timestamp": 30,
+      "lyrics": "You wouldn't get this from any other guy"
+    },
+    {
+      "timestamp": 35,
+      "lyrics": "I just wanna tell you how I'm feeling"
+    },
+    {
+      "timestamp": 40,
+      "lyrics": "Gotta make you understand"
+    },
+    {
+      "timestamp": 42,
+      "lyrics": "Never gonna give you up"
+    },
+    {
+      "timestamp": 45,
+      "lyrics": "Never gonna let you down"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Never gonna run around and desert you"
+    },
+    {
+      "timestamp": 51,
+      "lyrics": "Never gonna make you cry"
+    },
+    {
+      "timestamp": 53,
+      "lyrics": "Never gonna say goodbye"
+    },
+    {
+      "timestamp": 55,
+      "lyrics": "Never gonna tell a lie and hurt you"
+    },
+    {
+      "timestamp": 60,
+      "lyrics": "We've known each other for so long"
+    },
+    {
+      "timestamp": 65,
+      "lyrics": "Your heart's been aching, but you're too shy to say it (say it)"
+    },
+    {
+      "timestamp": 69,
+      "lyrics": "Inside, we both know what's been going on (going on)"
+    },
+    {
+      "timestamp": 73,
+      "lyrics": "We know the game and we're gonna play it"
+    },
+    {
+      "timestamp": 77,
+      "lyrics": "And if you ask me how I'm feeling"
+    },
+    {
+      "timestamp": 82,
+      "lyrics": "Don't tell me you're too blind to see"
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "Never gonna give you up"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "Never gonna let you down"
+    },
+    {
+      "timestamp": 89,
+      "lyrics": "Never gonna run around and desert you"
+    },
+    {
+      "timestamp": 93,
+      "lyrics": "Never gonna make you cry"
+    },
+    {
+      "timestamp": 96,
+      "lyrics": "Never gonna say goodbye"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "Never gonna tell a lie and hurt you"
+    },
+    {
+      "timestamp": 103,
+      "lyrics": "Never gonna give you up"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "Never gonna let you down"
+    },
+    {
+      "timestamp": 106,
+      "lyrics": "Never gonna run around and desert you"
+    },
+    {
+      "timestamp": 111,
+      "lyrics": "Never gonna make you cry"
+    },
+    {
+      "timestamp": 113,
+      "lyrics": "Never gonna say goodbye"
+    },
+    {
+      "timestamp": 115,
+      "lyrics": "Never gonna tell a lie and hurt you"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "(Ooh, give you up)"
+    },
+    {
+      "timestamp": 124,
+      "lyrics": "(Ooh, give you up)"
+    },
+    {
+      "timestamp": 126,
+      "lyrics": "(Ooh) Never gonna give, never gonna give (give you up)"
+    },
+    {
+      "timestamp": 133,
+      "lyrics": "(Ooh) Never gonna give, never gonna give (give you up)"
+    },
+    {
+      "timestamp": 137,
+      "lyrics": "We've known each other for so long"
+    },
+    {
+      "timestamp": 141,
+      "lyrics": "Your heart's been aching, but you're too shy to say it (to say it)"
+    },
+    {
+      "timestamp": 145,
+      "lyrics": "Inside, we both know what's been going on (going on)"
+    },
+    {
+      "timestamp": 150,
+      "lyrics": "We know the game and we're gonna play it"
+    },
+    {
+      "timestamp": 154,
+      "lyrics": "I just wanna tell you how I'm feeling"
+    },
+    {
+      "timestamp": 159,
+      "lyrics": "Gotta make you understand"
+    },
+    {
+      "timestamp": 162,
+      "lyrics": "Never gonna give you up"
+    },
+    {
+      "timestamp": 164,
+      "lyrics": "Never gonna let you down"
+    },
+    {
+      "timestamp": 166,
+      "lyrics": "Never gonna run around and desert you"
+    },
+    {
+      "timestamp": 170,
+      "lyrics": "Never gonna make you cry"
+    },
+    {
+      "timestamp": 172,
+      "lyrics": "Never gonna say goodbye"
+    },
+    {
+      "timestamp": 174,
+      "lyrics": "Never gonna tell a lie and hurt you"
+    },
+    {
+      "timestamp": 179,
+      "lyrics": "Never gonna give you up"
+    },
+    {
+      "timestamp": 181,
+      "lyrics": "Never gonna let you down"
+    },
+    {
+      "timestamp": 183,
+      "lyrics": "Never gonna run around and desert you"
+    },
+    {
+      "timestamp": 187,
+      "lyrics": "Never gonna make you cry"
+    },
+    {
+      "timestamp": 189,
+      "lyrics": "Never gonna say goodbye"
+    },
+    {
+      "timestamp": 192,
+      "lyrics": "Never gonna tell a lie and hurt you"
+    },
+    {
+      "timestamp": 192,
+      "lyrics": "Never gonna give you up"
+    },
+    {
+      "timestamp": 192,
+      "lyrics": "Never gonna let you down"
+    },
+    {
+      "timestamp": 192,
+      "lyrics": "Never gonna run around and desert you"
+    },
+    {
+      "timestamp": 193,
+      "lyrics": "Never gonna make you cry"
+    },
+    {
+      "timestamp": 193,
+      "lyrics": "Never gonna say goodbye"
+    },
+    {
+      "timestamp": 193,
+      "lyrics": "Never gonna tell a lie and hurt you"
+    },
+    {
+      "timestamp": 194,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The lyrics express a strong and unwavering commitment to a romantic relationship. The narrator vows to provide emotional support, loyalty, and protection. They promise to be present, honest, and reliable, ensuring their partner's well-being and happiness. The song emphasizes the enduring nature of the bond, despite the challenges that may arise, and the narrator's unwavering devotion to keeping the relationship strong.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b8f08a65a317ca0dd9a97"
+  },
+  "yt_id": "7ARXrfGbQaI",
+  "title": "Party In The U.S.A.",
+  "author": "Miley Cyrus",
+  "thumbnail": "https://lh3.googleusercontent.com/CXrltAt9v-Im6nGnCf1mYB3iRchl2gyxql6RhtwdMhcZujEjKNdiTClY09Z6YSJA9-aOJcu6El8wekbB=w120-h120-s-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 10,
+      "lyrics": "I hopped off the plane at LAX"
+    },
+    {
+      "timestamp": 12,
+      "lyrics": "With a dream and my cardigan"
+    },
+    {
+      "timestamp": 14,
+      "lyrics": "Welcome to the land of fame excess (woah)"
+    },
+    {
+      "timestamp": 17,
+      "lyrics": "Am I gonna fit in?"
+    },
+    {
+      "timestamp": 19,
+      "lyrics": "Jumped in the cab, here I am for the first time"
+    },
+    {
+      "timestamp": 22,
+      "lyrics": "Look to my right, and I see the Hollywood sign"
+    },
+    {
+      "timestamp": 24,
+      "lyrics": "This is all so crazy"
+    },
+    {
+      "timestamp": 26,
+      "lyrics": "Everybody seems so famous"
+    },
+    {
+      "timestamp": 29,
+      "lyrics": "My tummy's turnin' and I'm feelin' kinda homesick"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "Too much pressure and I'm nervous"
+    },
+    {
+      "timestamp": 33,
+      "lyrics": "That's when the taxi man turned on the radio"
+    },
+    {
+      "timestamp": 36,
+      "lyrics": "And a Jay-Z song was on"
+    },
+    {
+      "timestamp": 38,
+      "lyrics": "And a Jay-Z song was on"
+    },
+    {
+      "timestamp": 41,
+      "lyrics": "And a Jay-Z song was on"
+    },
+    {
+      "timestamp": 43,
+      "lyrics": "So I put my hands up"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "They're playin' my song, the butterflies fly away"
+    },
+    {
+      "timestamp": 48,
+      "lyrics": "I'm noddin' my head like, yeah"
+    },
+    {
+      "timestamp": 50,
+      "lyrics": "Movin' my hips like, yeah"
+    },
+    {
+      "timestamp": 53,
+      "lyrics": "I got my hands up, they're playin' my song"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": "They know I'm gonna be okay"
+    },
+    {
+      "timestamp": 58,
+      "lyrics": "Yeah, it's a party in the U.S.A."
+    },
+    {
+      "timestamp": 63,
+      "lyrics": "Yeah, it's a party in the U.S.A."
+    },
+    {
+      "timestamp": 68,
+      "lyrics": "Get to the club in my taxi cab"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Everybody's looking at me now"
+    },
+    {
+      "timestamp": 73,
+      "lyrics": "Like, \"Who's that chick that's rockin' kicks?"
+    },
+    {
+      "timestamp": 75,
+      "lyrics": "She gotta be from out of town\""
+    },
+    {
+      "timestamp": 77,
+      "lyrics": "So hard with my girls not around me"
+    },
+    {
+      "timestamp": 80,
+      "lyrics": "It's definitely not a Nashville party"
+    },
+    {
+      "timestamp": 83,
+      "lyrics": "'Cause all I see are stilettos"
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "I guess I never got the memo"
+    },
+    {
+      "timestamp": 88,
+      "lyrics": "My tummy's turnin' and I'm feelin' kinda homesick"
+    },
+    {
+      "timestamp": 90,
+      "lyrics": "Too much pressure and I'm nervous"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "That's when the DJ dropped my favorite tune"
+    },
+    {
+      "timestamp": 94,
+      "lyrics": "And a Britney song was on"
+    },
+    {
+      "timestamp": 96,
+      "lyrics": "And a Britney song was on"
+    },
+    {
+      "timestamp": 99,
+      "lyrics": "And a Britney song was on"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "So I put my hands up"
+    },
+    {
+      "timestamp": 102,
+      "lyrics": "They're playin' my song, the butterflies fly away"
+    },
+    {
+      "timestamp": 106,
+      "lyrics": "I'm noddin' my head like, yeah"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "Movin' my hips like, yeah"
+    },
+    {
+      "timestamp": 111,
+      "lyrics": "I got my hands up, they're playin' my song"
+    },
+    {
+      "timestamp": 113,
+      "lyrics": "They know I'm gonna be okay"
+    },
+    {
+      "timestamp": 116,
+      "lyrics": "Yeah, it's a party in the U.S.A."
+    },
+    {
+      "timestamp": 121,
+      "lyrics": "Yeah, it's a party in the U.S.A."
+    },
+    {
+      "timestamp": 127,
+      "lyrics": "Feel like hoppin' on a flight (on a flight)"
+    },
+    {
+      "timestamp": 131,
+      "lyrics": "Back to my hometown tonight (town tonight)"
+    },
+    {
+      "timestamp": 136,
+      "lyrics": "Something stops me every time (every time)"
+    },
+    {
+      "timestamp": 140,
+      "lyrics": "The DJ plays my song and I feel alright"
+    },
+    {
+      "timestamp": 144,
+      "lyrics": "So I put my hands up"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "They're playin' my song, the butterflies fly away"
+    },
+    {
+      "timestamp": 149,
+      "lyrics": "I'm noddin' my head like, yeah (noddin' my head)"
+    },
+    {
+      "timestamp": 152,
+      "lyrics": "Movin' my hips like, yeah (ooh, yeah)"
+    },
+    {
+      "timestamp": 154,
+      "lyrics": "I got my hands up, they're playin' my song"
+    },
+    {
+      "timestamp": 157,
+      "lyrics": "They know I'm gonna be okay (gonna be okay)"
+    },
+    {
+      "timestamp": 159,
+      "lyrics": "Yeah, it's a party in the U.S.A."
+    },
+    {
+      "timestamp": 164,
+      "lyrics": "Yeah, it's a party in the U.S.A."
+    },
+    {
+      "timestamp": 169,
+      "lyrics": "So I put my hands up"
+    },
+    {
+      "timestamp": 170,
+      "lyrics": "They're playin' my song, the butterflies fly away (flying away)"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "I'm noddin' my head like, yeah (noddin' my head like, yeah)"
+    },
+    {
+      "timestamp": 173,
+      "lyrics": "Movin' my hips like, yeah (movin' my hips like, yeah)"
+    },
+    {
+      "timestamp": 174,
+      "lyrics": "I got my hands up, they're playin' my song"
+    },
+    {
+      "timestamp": 175,
+      "lyrics": "They know I'm gonna be okay (I'm gonna be okay)"
+    },
+    {
+      "timestamp": 177,
+      "lyrics": "Yeah, it's a party in the U.S.A."
+    },
+    {
+      "timestamp": 183,
+      "lyrics": "Yeah (ha-ha-ha-ha), it's a party in the U.S.A."
+    },
+    {
+      "timestamp": 188,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song depicts a young woman's journey to Los Angeles, where she initially feels out of place. However, when her favorite songs play, she feels a sense of belonging and confidence. This suggests how music can provide comfort and empowerment during challenging transitions, allowing individuals to embrace new environments and overcome feelings of homesickness and anxiety.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b9083a65a317ca0dd9a98"
+  },
+  "yt_id": "3cKtSlsYVEU",
+  "title": "September",
+  "author": "Earth, Wind & Fire",
+  "thumbnail": "https://lh3.googleusercontent.com/6yT9oflvqvXnTOu7x--2aTasgLebsNfff5RqsEd07J-oXnNYVLnn-YKu48juCBI1EKEWIa1fQTMw_Krw8A=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 19,
+      "lyrics": "Do you remember the twenty-first night of September?"
+    },
+    {
+      "timestamp": 22,
+      "lyrics": "Love was changing the minds of pretender, while chasing the clouds away"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "Our hearts were ringing in the key that our souls were singing"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "As we danced in the night, remember how the stars stole the night away"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "Hey, hey, hey, ba-de-ya, say do you remember?"
+    },
+    {
+      "timestamp": 53,
+      "lyrics": "Ba-de-ya, dancing in September"
+    },
+    {
+      "timestamp": 57,
+      "lyrics": "Ba-de-ya, never was a cloudy day"
+    },
+    {
+      "timestamp": 65,
+      "lyrics": "Ba-du-du, ba-du-du, ba-du-du, ba-du-du"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Ba-du-du, ba-du-du, ba-du-du, ba-du-du"
+    },
+    {
+      "timestamp": 71,
+      "lyrics": "Ba-du-du, ba-du-du, ba-do-da"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "My thoughts are with you, holding hands with your heart to see you"
+    },
+    {
+      "timestamp": 84,
+      "lyrics": "Only blue talk and love, remember how we knew love was here to stay"
+    },
+    {
+      "timestamp": 93,
+      "lyrics": "Now, December found the love we shared in September"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "Only blue talk and love, remember true love we share today"
+    },
+    {
+      "timestamp": 109,
+      "lyrics": "Hey, hey, hey, ba-de-ya, say do you remember?"
+    },
+    {
+      "timestamp": 114,
+      "lyrics": "Ba-de-ya, dancing in September"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": "Ba-de-ya, never was a cloudy day"
+    },
+    {
+      "timestamp": 125,
+      "lyrics": "There was a, ba-de-ya (de-ya, de-ya), say do you remember?"
+    },
+    {
+      "timestamp": 129,
+      "lyrics": "Ba-de-ya (de-ya, de-ya), dancing in September"
+    },
+    {
+      "timestamp": 133,
+      "lyrics": "Ba-de-ya (de-ya, de-ya), golden dreams were shiny days"
+    },
+    {
+      "timestamp": 140,
+      "lyrics": "The bell was ringing, ha-ha, our souls were singing"
+    },
+    {
+      "timestamp": 148,
+      "lyrics": "Do you remember never a cloudy day? Yow"
+    },
+    {
+      "timestamp": 155,
+      "lyrics": "There was a, ba-de-ya (de-ya, de-ya), say do you remember?"
+    },
+    {
+      "timestamp": 160,
+      "lyrics": "Ba-de-ya (de-ya, de-ya), dancing in September"
+    },
+    {
+      "timestamp": 163,
+      "lyrics": "Ba-de-ya (de-ya, de-ya), never was a cloudy day"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "And was a, ba-de-ya (de-ya, de-ya), say do you remember?"
+    },
+    {
+      "timestamp": 175,
+      "lyrics": "Ba-de-ya (de-ya, de-ya), dancing in September"
+    },
+    {
+      "timestamp": 179,
+      "lyrics": "Ba-de-ya (de-ya, de-ya), golden dreams were shiny days"
+    },
+    {
+      "timestamp": 186,
+      "lyrics": "Ba-de-ya, de-ya, de-ya"
+    },
+    {
+      "timestamp": 190,
+      "lyrics": "Ba-de-ya, de-ya, de-ya"
+    },
+    {
+      "timestamp": 193,
+      "lyrics": "Ba-de-ya, de-ya, de-ya, de-ya"
+    },
+    {
+      "timestamp": 195,
+      "lyrics": "Ba-de-ya, de-ya, de-ya"
+    },
+    {
+      "timestamp": 197,
+      "lyrics": "Ba-de-ya, de-ya, de-ya"
+    },
+    {
+      "timestamp": 198,
+      "lyrics": "Ba-de-ya, de-ya, de-ya, de-ya"
+    },
+    {
+      "timestamp": 201,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The lyrics describe a magical and unforgettable night in September, filled with love, music, and dancing. The singer remembers this night fondly, as it marked a turning point in their relationship. The love between them was transformative and undeniable, bringing joy and happiness that lasted long after the night was over. Despite the passage of time, the memory of this special night remains vivid and cherished.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b91a6a65a317ca0dd9a99"
+  },
+  "yt_id": "kzBS5amzwoI",
+  "title": "George Washington vs William Wallace",
+  "author": "Epic Rap Battles of History",
+  "thumbnail": "https://lh3.googleusercontent.com/EJzKMenoCcyLjgbW5mXdgkRWZ6NrpgHHPDNrx_MlC87HhsGHK61OyaUB1CV6E-h-q8qebmuzXhTUNB37=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 6,
+      "lyrics": "George Washington versus William Wallace, begin"
+    },
+    {
+      "timestamp": 14,
+      "lyrics": "There's a difference between you and me, Willy"
+    },
+    {
+      "timestamp": 16,
+      "lyrics": "I fought 'til I was actually free, Willy"
+    },
+    {
+      "timestamp": 17,
+      "lyrics": "I got my face on a quarter"
+    },
+    {
+      "timestamp": 19,
+      "lyrics": "You got drawn and quartered"
+    },
+    {
+      "timestamp": 20,
+      "lyrics": "Tortured on the orders of a king, really?"
+    },
+    {
+      "timestamp": 23,
+      "lyrics": "How'd you get beat by a dude named Longshanks?"
+    },
+    {
+      "timestamp": 25,
+      "lyrics": "You hot dogged and he cut off your bean franks"
+    },
+    {
+      "timestamp": 27,
+      "lyrics": "I'm money like a National Bank"
+    },
+    {
+      "timestamp": 29,
+      "lyrics": "Ain't nobody more street than Big G"
+    },
+    {
+      "timestamp": 30,
+      "lyrics": "Stone face with a grill of sheep teeth!"
+    },
+    {
+      "timestamp": 32,
+      "lyrics": "A Mel Gibson movie is your legacy (ah!)"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "I got a state and a day and a DC"
+    },
+    {
+      "timestamp": 36,
+      "lyrics": "(Stroke!) Roll up in a boat"
+    },
+    {
+      "timestamp": 38,
+      "lyrics": "(Stroke!) You're sleeping cut your throat"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "(Stroke!) I watch the blood flow, now who's got that red coat?"
+    },
+    {
+      "timestamp": 43,
+      "lyrics": "Look at ya in your little blousy outfit"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Looking like a stiffer white dick than your monument"
+    },
+    {
+      "timestamp": 50,
+      "lyrics": "I'll knock you the fuck out, mate, you died owning slaves, I died setting men free (scot-free!)"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "That's the Highland way, this powdered prick couldn't beat me in a foot race"
+    },
+    {
+      "timestamp": 58,
+      "lyrics": "I was emasculated, eviscerated, I had my head chopped off and they put it on a pike"
+    },
+    {
+      "timestamp": 61,
+      "lyrics": "And I still find time to bust a Gaelic rhyme"
+    },
+    {
+      "timestamp": 63,
+      "lyrics": "And rip your Yankee Doodle arse on the mic"
+    },
+    {
+      "timestamp": 65,
+      "lyrics": "I'll knock your face off your moola, Alba gu brah (gu-rah! Hoo-rah! Hoo-rah!)"
+    },
+    {
+      "timestamp": 69,
+      "lyrics": "Founding father but no children"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Crossed the Delaware, but your soldiers can't swim"
+    },
+    {
+      "timestamp": 72,
+      "lyrics": "That's Washington, such a shit tactician"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "The fucking British Army didn't even want him"
+    },
+    {
+      "timestamp": 76,
+      "lyrics": "I'm Wallace! (Woo) And I'm flawless! (Woo)"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "Stay hid in your office or suffer great losses"
+    },
+    {
+      "timestamp": 80,
+      "lyrics": "I pop my kilt, strap my sword on my hilt, step on the battlefield and I'm ready to kill"
+    },
+    {
+      "timestamp": 83,
+      "lyrics": "Send all you politicians straight down to hell"
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "The only Washington I trust is Denzel"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "Is that the best you got for me?"
+    },
+    {
+      "timestamp": 88,
+      "lyrics": "I chop down an emcee like a cherry tree"
+    },
+    {
+      "timestamp": 90,
+      "lyrics": "See, power! That's what the meaning of my flag is"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "Your nation's famous for golf and haggis"
+    },
+    {
+      "timestamp": 94,
+      "lyrics": "I'm fabulous, from my head to my shoebuckle"
+    },
+    {
+      "timestamp": 96,
+      "lyrics": "Step to me, and catch a knee to the moose knuckle"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "'Cause I know you don't wear no draws"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "I'm dressed like a pimp, best moves at the ball"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "MacGlavin, McGliven, McSchool you all"
+    },
+    {
+      "timestamp": 103,
+      "lyrics": "Cock block more Scots than Hadrian's Wall"
+    },
+    {
+      "timestamp": 105,
+      "lyrics": "I don't give a shit 'bout your fancy clothes"
+    },
+    {
+      "timestamp": 107,
+      "lyrics": "You whipped all of those out of slave black folks"
+    },
+    {
+      "timestamp": 109,
+      "lyrics": "Grew weed then you made hemp rope"
+    },
+    {
+      "timestamp": 110,
+      "lyrics": "But if ya think you'll beat me, ya must be having a smoke"
+    },
+    {
+      "timestamp": 112,
+      "lyrics": "No joke! Don't tee off with me, laddy"
+    },
+    {
+      "timestamp": 114,
+      "lyrics": "If you held my balls, you couldn't be my caddy"
+    },
+    {
+      "timestamp": 116,
+      "lyrics": "My style's ice-cold, yours is old and shabby"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": "You're the father of your country, but I'm your daddy"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "Who won? Who's next? You decide"
+    },
+    {
+      "timestamp": 135,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The lyrics depict a battle of words between George Washington and William Wallace, two historical figures known for their leadership and patriotism. Washington boasts of his accomplishments, including his role in the American Revolution and his image on the quarter, while Wallace highlights his fight for Scottish independence and his defiance against tyranny. The song serves as a humorous and thought-provoking comparison of their legacies, contrasting Washington's strategic victories with Wallace's valiant but ultimately tragic rebellion.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b92bba65a317ca0dd9a9a"
+  },
+  "yt_id": "h-yiquGTfMo",
+  "title": "A Purpose for New London",
+  "author": "The Stupendium",
+  "thumbnail": "https://lh3.googleusercontent.com/uupZ-x5RKZlDOp3sz3uWWyX-_irtFHPqIMwAd1uiEmNMV517Lf8mAamqeSOYDQn_1H7tDpFdoClsAwQb=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 15,
+      "lyrics": "Gather brothers, gather sisters, soothe your blisters by the fire"
+    },
+    {
+      "timestamp": 18,
+      "lyrics": "Though our bones may ache and groan, we know our spirits never tire"
+    },
+    {
+      "timestamp": 21,
+      "lyrics": "The temperature's low, but our purpose is much higher"
+    },
+    {
+      "timestamp": 25,
+      "lyrics": "What's behind us mustn't blind us to divineness that transpires"
+    },
+    {
+      "timestamp": 28,
+      "lyrics": "Now her spires have expired, well, she rests in each of you"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "London's not a place, it wasn't left beneath our boots"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "And by grace we have been with that most elegant of truth"
+    },
+    {
+      "timestamp": 37,
+      "lyrics": "You stand here, not abandoned, but as testament and proof"
+    },
+    {
+      "timestamp": 40,
+      "lyrics": "For a city is its people and its people are its heart"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "Stood together 'gainst the weather, 'gainst the coming of the dark"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Ne'er a lantern has been build with oh-so righteous a spark"
+    },
+    {
+      "timestamp": 50,
+      "lyrics": "When providence claimed continents, but provided us an ark"
+    },
+    {
+      "timestamp": 53,
+      "lyrics": "We moved north as awful, forceful storms removed borders"
+    },
+    {
+      "timestamp": 57,
+      "lyrics": "Forced to leave the warmth behind, the daylight hours grew shorter"
+    },
+    {
+      "timestamp": 60,
+      "lyrics": "Unable to read at night, the people might dispute lawbooks"
+    },
+    {
+      "timestamp": 63,
+      "lyrics": "Ushering the death of joy, division made a New Order"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "Brute force and discipline ensures all the citizens"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Are chipping in sufficiently, under threat of imprisonment"
+    },
+    {
+      "timestamp": 73,
+      "lyrics": "Liberty's prohibited, retired, it's mandatory compliance now"
+    },
+    {
+      "timestamp": 76,
+      "lyrics": "To keep the fire alight, we need to stamp any defiance out"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "We can ill afford the price of human rights nor pay the cost of anger"
+    },
+    {
+      "timestamp": 82,
+      "lyrics": "So we stifle scrutinising eyes astray with propaganda"
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "The only way that we can pull through is under cruel rule"
+    },
+    {
+      "timestamp": 89,
+      "lyrics": "If a single person falls out of line, we all do"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "Morning gathering or evening prayer"
+    },
+    {
+      "timestamp": 94,
+      "lyrics": "We still battle for a season fair"
+    },
+    {
+      "timestamp": 97,
+      "lyrics": "We still huddle in the freezing air"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "For a summer that's not even there"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "If that Sun won't rise on our horizon"
+    },
+    {
+      "timestamp": 107,
+      "lyrics": "We'll march on to spite the skies and"
+    },
+    {
+      "timestamp": 111,
+      "lyrics": "Find that wheel of progress, so well worn"
+    },
+    {
+      "timestamp": 115,
+      "lyrics": "Brought us no shelter from the storm"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": "I have heard that there are those who would defy us"
+    },
+    {
+      "timestamp": 121,
+      "lyrics": "Who'd choose oppression o'er ascension for the pious"
+    },
+    {
+      "timestamp": 124,
+      "lyrics": "Dissidents without repent are bent on questioning the dias"
+    },
+    {
+      "timestamp": 127,
+      "lyrics": "Twisted iron fist pariahs and their heretic messiah"
+    },
+    {
+      "timestamp": 130,
+      "lyrics": "Winter blizzards to infinity, so sing the hymns and litanies"
+    },
+    {
+      "timestamp": 133,
+      "lyrics": "Hand in and skin the sinners if you wish to skim divinity"
+    },
+    {
+      "timestamp": 136,
+      "lyrics": "Each shiver will deliver us deliverance in time"
+    },
+    {
+      "timestamp": 140,
+      "lyrics": "Burn the innocents for penitence if we preempt the crime"
+    },
+    {
+      "timestamp": 143,
+      "lyrics": "I'm protector of the truth, great erector of the New Faith"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "Defectors and objectors can expect a second doomsday"
+    },
+    {
+      "timestamp": 149,
+      "lyrics": "Unquestioning our destiny, relentless we pursue fate"
+    },
+    {
+      "timestamp": 152,
+      "lyrics": "Alone I have been chosen to be spoken through by true grace"
+    },
+    {
+      "timestamp": 159,
+      "lyrics": "Frozen omens say we should invoke another crusade"
+    },
+    {
+      "timestamp": 162,
+      "lyrics": "We rush to crush dissent from those who claim we must repent"
+    },
+    {
+      "timestamp": 166,
+      "lyrics": "How could a benevolent god subject us to such events?"
+    },
+    {
+      "timestamp": 169,
+      "lyrics": "Against the elements, precious seconds each of us has spent"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "Completing Public Penance could've been invested putting up the tents"
+    },
+    {
+      "timestamp": 175,
+      "lyrics": "Pragmatism's borne of pessimism, not a full-blown pestilence"
+    },
+    {
+      "timestamp": 179,
+      "lyrics": "Infecting desperate residents with false hope"
+    },
+    {
+      "timestamp": 182,
+      "lyrics": "Now they've sworn oaths and pledged commitment to a cult"
+    },
+    {
+      "timestamp": 184,
+      "lyrics": "No mercy will be shown or quarter given, fetch the coiled rope"
+    },
+    {
+      "timestamp": 188,
+      "lyrics": "And hang them by the necks until it's taut, the lesson learned is certain"
+    },
+    {
+      "timestamp": 191,
+      "lyrics": "No forgiveness for giving attention to those worthless sermons"
+    },
+    {
+      "timestamp": 194,
+      "lyrics": "No measure of faith will keep you warm or sate your appetite"
+    },
+    {
+      "timestamp": 198,
+      "lyrics": "So pray, heed the warning, or we may just have to tax your life"
+    },
+    {
+      "timestamp": 200,
+      "lyrics": "Morning gathering or evening prayer"
+    },
+    {
+      "timestamp": 203,
+      "lyrics": "We still battle for a season fair"
+    },
+    {
+      "timestamp": 206,
+      "lyrics": "We still huddle in the freezing air"
+    },
+    {
+      "timestamp": 209,
+      "lyrics": "For a summer that's not even there"
+    },
+    {
+      "timestamp": 213,
+      "lyrics": "If that Sun won't rise on our horizon"
+    },
+    {
+      "timestamp": 216,
+      "lyrics": "We'll march on to spite the skies and"
+    },
+    {
+      "timestamp": 220,
+      "lyrics": "Find that wheel of progress, so well worn"
+    },
+    {
+      "timestamp": 223,
+      "lyrics": "Brought us no shelter from the storm"
+    },
+    {
+      "timestamp": 226,
+      "lyrics": "Now the book of laws is closed and its pages shine a light"
+    },
+    {
+      "timestamp": 229,
+      "lyrics": "As the people fill the shrines in line with my divine right"
+    },
+    {
+      "timestamp": 232,
+      "lyrics": "This battlement of sacraments, as chattel to our rite"
+    },
+    {
+      "timestamp": 235,
+      "lyrics": "The sacrilegious and recalcitrant shall vow or face the smite"
+    },
+    {
+      "timestamp": 238,
+      "lyrics": "Nonbelievers shan't deceive us, we shall greet their cheek with grievance"
+    },
+    {
+      "timestamp": 242,
+      "lyrics": "In this ceaseless season, we redeem the meek with bleak obedience"
+    },
+    {
+      "timestamp": 245,
+      "lyrics": "Seeking each unheeding heathen, see them bleed or plead allegiance"
+    },
+    {
+      "timestamp": 248,
+      "lyrics": "Blessed be relief from freedom; lest ye feel the need for treason"
+    },
+    {
+      "timestamp": 251,
+      "lyrics": "Since the precept was decreed, its certainty was predetermined"
+    },
+    {
+      "timestamp": 254,
+      "lyrics": "Mere herds of sheep are people, thus, they need to be subservient"
+    },
+    {
+      "timestamp": 258,
+      "lyrics": "'Neath so turbulent a firmament, the worst of men survive"
+    },
+    {
+      "timestamp": 261,
+      "lyrics": "Pray their mercy may preserve us once we touch the other side"
+    },
+    {
+      "timestamp": 265,
+      "lyrics": "Now the book of laws is closed, you've no hope to try and fight"
+    },
+    {
+      "timestamp": 268,
+      "lyrics": "As the people fall in line and march in time with iron might"
+    },
+    {
+      "timestamp": 271,
+      "lyrics": "Nonbelievers shan't deceive us, we shall greet their cheek with grievance"
+    },
+    {
+      "timestamp": 274,
+      "lyrics": "In this ceaseless season, we redeem the meek with bleak obedience"
+    },
+    {
+      "timestamp": 277,
+      "lyrics": "Seeking each unheeding heathen, see them bleed or plead allegiance"
+    },
+    {
+      "timestamp": 281,
+      "lyrics": "Blessed be relief from freedom; lest ye feel the need for treason"
+    },
+    {
+      "timestamp": 284,
+      "lyrics": "Since the precept was decreed, its certainty was predetermined"
+    },
+    {
+      "timestamp": 287,
+      "lyrics": "Mere vermin are the people, thus, they need to be subservient"
+    },
+    {
+      "timestamp": 290,
+      "lyrics": "They deserve paternal leadership; eternally prescriptive"
+    },
+    {
+      "timestamp": 293,
+      "lyrics": "Turn a leaf in the journal, weep as you read the scriptures"
+    },
+    {
+      "timestamp": 296,
+      "lyrics": "The book of laws is closed, it's frozen shut and couldn't thaw"
+    },
+    {
+      "timestamp": 300,
+      "lyrics": "But should the storms subside it might be time to write a couple more"
+    },
+    {
+      "timestamp": 303,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song depicts a dystopian society where a dictatorial regime suppresses dissent and imposes harsh punishments on nonconformists. In this frozen wasteland, survival depends on obedience, and questioning authority is met with ruthless measures. The lyrics convey the despair and resignation of the oppressed people as they yearn for a season fair, a time when their spirits were not extinguished by the cold grip of tyranny.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b9442a65a317ca0dd9a9d"
+  },
+  "yt_id": "WjUOXJoM6rI",
+  "title": "Word Crimes",
+  "author": "\"Weird Al\" Yankovic",
+  "thumbnail": "https://lh3.googleusercontent.com/TvjZCwFxyyzAa2I5ilDwh7GGNB1cQLCMluv_Y9OwpYslIsY4BQyYHuNWetXE60RloOIEjIS9P4J5Xe5c=w120-h120-s-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 1,
+      "lyrics": "Everybody shut up"
+    },
+    {
+      "timestamp": 3,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 8,
+      "lyrics": "Everyone listen up (hey-hey-hey, hey-hey-hey, hey-hey-hey)"
+    },
+    {
+      "timestamp": 15,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 18,
+      "lyrics": "If you can't write in the proper way"
+    },
+    {
+      "timestamp": 22,
+      "lyrics": "If you don't know how to conjugate"
+    },
+    {
+      "timestamp": 25,
+      "lyrics": "Maybe you flunked that class"
+    },
+    {
+      "timestamp": 27,
+      "lyrics": "And maybe now you find"
+    },
+    {
+      "timestamp": 29,
+      "lyrics": "That people mock you online (everybody wise up)"
+    },
+    {
+      "timestamp": 33,
+      "lyrics": "Okay now here's the deal, I'll try to educate ya"
+    },
+    {
+      "timestamp": 37,
+      "lyrics": "Gonna familiarize you with the nomenclature"
+    },
+    {
+      "timestamp": 41,
+      "lyrics": "You'll learn the definitions of nouns and prepositions"
+    },
+    {
+      "timestamp": 45,
+      "lyrics": "Literacy's your mission"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "And that's why I think it's a good time"
+    },
+    {
+      "timestamp": 51,
+      "lyrics": "To learn some grammar (what)"
+    },
+    {
+      "timestamp": 53,
+      "lyrics": "Now did I stammer?"
+    },
+    {
+      "timestamp": 55,
+      "lyrics": "Work on that grammar"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": "You should know when it's less or it's fewer"
+    },
+    {
+      "timestamp": 61,
+      "lyrics": "Like people who were"
+    },
+    {
+      "timestamp": 62,
+      "lyrics": "Never raised in a sewer"
+    },
+    {
+      "timestamp": 64,
+      "lyrics": "I hate these word crimes"
+    },
+    {
+      "timestamp": 67,
+      "lyrics": "Like I could care less"
+    },
+    {
+      "timestamp": 68,
+      "lyrics": "That means you do care"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "At least a little"
+    },
+    {
+      "timestamp": 72,
+      "lyrics": "Don't be a moron"
+    },
+    {
+      "timestamp": 75,
+      "lyrics": "You'd better slow down and use the right pronoun"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "Show the world you're no clown (everybody wise up)"
+    },
+    {
+      "timestamp": 80,
+      "lyrics": "Say you got an I-T followed by apostrophe S"
+    },
+    {
+      "timestamp": 84,
+      "lyrics": "Now, what does that mean?"
+    },
+    {
+      "timestamp": 86,
+      "lyrics": "You would not use \"it's\" in this case as a possessive (no, no, no)"
+    },
+    {
+      "timestamp": 90,
+      "lyrics": "It's a contraction (yeah, yeah, yeah)"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "What's a contraction?"
+    },
+    {
+      "timestamp": 94,
+      "lyrics": "\"Well, it's the shortening of a word"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "Or group of words by omission of a sound or letter\""
+    },
+    {
+      "timestamp": 96,
+      "lyrics": "Okay now, here's some notes"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "Syntax you're always manglin'"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "No \"x\" in espresso"
+    },
+    {
+      "timestamp": 102,
+      "lyrics": "Your participle's danglin'"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "But I don't want your drama"
+    },
+    {
+      "timestamp": 106,
+      "lyrics": "If you really wanna, leave out that Oxford comma"
+    },
+    {
+      "timestamp": 110,
+      "lyrics": "Just keep in mind that be, see, are, you"
+    },
+    {
+      "timestamp": 114,
+      "lyrics": "Are words, not letters"
+    },
+    {
+      "timestamp": 116,
+      "lyrics": "Get it together, use your spell checker"
+    },
+    {
+      "timestamp": 119,
+      "lyrics": "You should never"
+    },
+    {
+      "timestamp": 122,
+      "lyrics": "Write words using numbers"
+    },
+    {
+      "timestamp": 123,
+      "lyrics": "Unless you're seven, or your name is Prince"
+    },
+    {
+      "timestamp": 127,
+      "lyrics": "I hate these word crimes"
+    },
+    {
+      "timestamp": 129,
+      "lyrics": "You really need a full-time proofreader"
+    },
+    {
+      "timestamp": 134,
+      "lyrics": "You dumb mouth-breather"
+    },
+    {
+      "timestamp": 134,
+      "lyrics": "Well, you should hire"
+    },
+    {
+      "timestamp": 137,
+      "lyrics": "Some cunning linguist"
+    },
+    {
+      "timestamp": 139,
+      "lyrics": "To help you distinguish what is proper English (everybody wise up)"
+    },
+    {
+      "timestamp": 143,
+      "lyrics": "One thing I ask of you"
+    },
+    {
+      "timestamp": 145,
+      "lyrics": "The time to learn your homophones is past due"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "Learn to diagram a sentence too"
+    },
+    {
+      "timestamp": 148,
+      "lyrics": "Always say \"to whom\"; don't ever say \"to who\""
+    },
+    {
+      "timestamp": 151,
+      "lyrics": "And listen up when I tell you this"
+    },
+    {
+      "timestamp": 153,
+      "lyrics": "I hope you never use quotation marks for emphasis"
+    },
+    {
+      "timestamp": 155,
+      "lyrics": "You finished second grade; I hope you can tell"
+    },
+    {
+      "timestamp": 156,
+      "lyrics": "If you're doing good or doing well (everybody wise up)"
+    },
+    {
+      "timestamp": 159,
+      "lyrics": "Better figure out the difference"
+    },
+    {
+      "timestamp": 160,
+      "lyrics": "Irony is not coincidence"
+    },
+    {
+      "timestamp": 162,
+      "lyrics": "And I thought that you'd gotten it through your skull"
+    },
+    {
+      "timestamp": 164,
+      "lyrics": "'Bout what's figurative and what's literal"
+    },
+    {
+      "timestamp": 166,
+      "lyrics": "Oh, but just now (just now) you said (you said)"
+    },
+    {
+      "timestamp": 169,
+      "lyrics": "You \"literally couldn't get out of bed\" (what)"
+    },
+    {
+      "timestamp": 170,
+      "lyrics": "That really makes me wanna literally"
+    },
+    {
+      "timestamp": 172,
+      "lyrics": "Smack a crowbar upside your stupid head"
+    },
+    {
+      "timestamp": 174,
+      "lyrics": "I read your e-mail (yeah, yeah)"
+    },
+    {
+      "timestamp": 177,
+      "lyrics": "It's quite apparent your grammar's errant"
+    },
+    {
+      "timestamp": 180,
+      "lyrics": "You're incoherent"
+    },
+    {
+      "timestamp": 182,
+      "lyrics": "Saw your blog post (hey, hey)"
+    },
+    {
+      "timestamp": 185,
+      "lyrics": "It's really fantastic"
+    },
+    {
+      "timestamp": 187,
+      "lyrics": "That was sarcastic (aw psych!) 'cause you write like a spastic"
+    },
+    {
+      "timestamp": 190,
+      "lyrics": "I hate these word crimes (everybody wise up)"
+    },
+    {
+      "timestamp": 193,
+      "lyrics": "Your prose is dopey"
+    },
+    {
+      "timestamp": 194,
+      "lyrics": "Think you should only write in emoji"
+    },
+    {
+      "timestamp": 197,
+      "lyrics": "Oh, you're a lost cause"
+    },
+    {
+      "timestamp": 200,
+      "lyrics": "Go back to pre-school, get out of the gene pool"
+    },
+    {
+      "timestamp": 204,
+      "lyrics": "Try your best to not drool"
+    },
+    {
+      "timestamp": 207,
+      "lyrics": "Never mind, I give up"
+    },
+    {
+      "timestamp": 211,
+      "lyrics": "Really now, I give up"
+    },
+    {
+      "timestamp": 213,
+      "lyrics": "(Hey-hey-hey)"
+    },
+    {
+      "timestamp": 215,
+      "lyrics": "(Hey-hey-hey)"
+    },
+    {
+      "timestamp": 217,
+      "lyrics": "(Go away)"
+    },
+    {
+      "timestamp": 218,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "This humorous yet didactic song aims to educate listeners about proper grammar and usage. The lyrics highlight common mistakes, such as using \"it's\" for \"its,\" dangling participles, and misuse of homophones. The speaker emphasizes the importance of literacy, correct syntax, and precise word choice. The song serves as a reminder to use language effectively and avoid \"word crimes\" that detract from communication.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b9518a65a317ca0dd9a9e"
+  },
+  "yt_id": "LMfaNT0tcxw",
+  "title": "American Assassin",
+  "author": "Dan Bull",
+  "thumbnail": "https://lh3.googleusercontent.com/StvbEjhwgGoVqdcWkUwF158rT6v_fmSmqPSN6TsTH4bW6f00J4aYiWkpuzqIwjlH6LGDv_-yT8ivysT54g=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 5,
+      "lyrics": "An eagle soars as the people fall"
+    },
+    {
+      "timestamp": 6,
+      "lyrics": "However, he ignores"
+    },
+    {
+      "timestamp": 7,
+      "lyrics": "All your feeble wars"
+    },
+    {
+      "timestamp": 9,
+      "lyrics": "He will steal a horse"
+    },
+    {
+      "timestamp": 10,
+      "lyrics": "Speed the steed across"
+    },
+    {
+      "timestamp": 10,
+      "lyrics": "Clean between your forces"
+    },
+    {
+      "timestamp": 11,
+      "lyrics": "And beat them all"
+    },
+    {
+      "timestamp": 12,
+      "lyrics": "In a free-for-all"
+    },
+    {
+      "timestamp": 13,
+      "lyrics": "These scenes of gore"
+    },
+    {
+      "timestamp": 14,
+      "lyrics": "Are nothing but another bit of heathen lore"
+    },
+    {
+      "timestamp": 15,
+      "lyrics": "From Florentine streets to Venetian waters"
+    },
+    {
+      "timestamp": 18,
+      "lyrics": "The whispers persist of a secret order"
+    },
+    {
+      "timestamp": 20,
+      "lyrics": "And whether or not you believe, it's all good"
+    },
+    {
+      "timestamp": 22,
+      "lyrics": "Either way I'll proceed; keep wreaking trauma"
+    },
+    {
+      "timestamp": 23,
+      "lyrics": "You're never making Connor fall"
+    },
+    {
+      "timestamp": 25,
+      "lyrics": "I never honour laws"
+    },
+    {
+      "timestamp": 26,
+      "lyrics": "When I'm on a warpath"
+    },
+    {
+      "timestamp": 27,
+      "lyrics": "My tomahawk's"
+    },
+    {
+      "timestamp": 28,
+      "lyrics": "Always responsible"
+    },
+    {
+      "timestamp": 28,
+      "lyrics": "For an onslaught"
+    },
+    {
+      "timestamp": 29,
+      "lyrics": "Of monstrous proportions"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "You're a goner, fool"
+    },
+    {
+      "timestamp": 32,
+      "lyrics": "Done for"
+    },
+    {
+      "timestamp": 33,
+      "lyrics": "Humans I hunt for"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "Dropping through the roof"
+    },
+    {
+      "timestamp": 35,
+      "lyrics": "Never knocking on the front door"
+    },
+    {
+      "timestamp": 35,
+      "lyrics": "What, you want more?"
+    },
+    {
+      "timestamp": 36,
+      "lyrics": "Or do you want war?"
+    },
+    {
+      "timestamp": 37,
+      "lyrics": "I've been around for longer"
+    },
+    {
+      "timestamp": 38,
+      "lyrics": "Than Rob Faulkner"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "And now I'm gonna"
+    },
+    {
+      "timestamp": 41,
+      "lyrics": "Run up on a futhamucking armed gunner"
+    },
+    {
+      "timestamp": 42,
+      "lyrics": "Pull a Stone Cold Stunner"
+    },
+    {
+      "timestamp": 43,
+      "lyrics": "And I've done a runner"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "Quicker than a bullet from a gun"
+    },
+    {
+      "timestamp": 45,
+      "lyrics": "And once again I'm under cover"
+    },
+    {
+      "timestamp": 46,
+      "lyrics": "Repping for the Brotherhood"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Stepping like no other could"
+    },
+    {
+      "timestamp": 48,
+      "lyrics": "Uppercutting any threats"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "I never take another look"
+    },
+    {
+      "timestamp": 50,
+      "lyrics": "I'm an assassin"
+    },
+    {
+      "timestamp": 51,
+      "lyrics": "One with a passion"
+    },
+    {
+      "timestamp": 53,
+      "lyrics": "For innovative rapping"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "Dropping so fast"
+    },
+    {
+      "timestamp": 55,
+      "lyrics": "You're probably having"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": "A problem to follow the captions"
+    },
+    {
+      "timestamp": 58,
+      "lyrics": "Said I'm an assassin"
+    },
+    {
+      "timestamp": 59,
+      "lyrics": "One with a passion"
+    },
+    {
+      "timestamp": 60,
+      "lyrics": "For innovative rapping"
+    },
+    {
+      "timestamp": 61,
+      "lyrics": "Dropping so fast"
+    },
+    {
+      "timestamp": 62,
+      "lyrics": "You're probably having"
+    },
+    {
+      "timestamp": 63,
+      "lyrics": "A problem to follow the captions"
+    },
+    {
+      "timestamp": 65,
+      "lyrics": "I combat colonialism"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "While owning a rhythm"
+    },
+    {
+      "timestamp": 67,
+      "lyrics": "I know the world doesn't owe me a living"
+    },
+    {
+      "timestamp": 69,
+      "lyrics": "So throw me a bone"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "And I'll cause pandemonium with it"
+    },
+    {
+      "timestamp": 71,
+      "lyrics": "Ignoring Newtonian physics"
+    },
+    {
+      "timestamp": 73,
+      "lyrics": "Forget opprobrium"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "Critics'll go with baloney below"
+    },
+    {
+      "timestamp": 75,
+      "lyrics": "To the same place I take fakes"
+    },
+    {
+      "timestamp": 77,
+      "lyrics": "Phoneys and mimics"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "No need for gimmicks"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "Do you need me to explain that"
+    },
+    {
+      "timestamp": 81,
+      "lyrics": "I'm lyrically spraying it"
+    },
+    {
+      "timestamp": 82,
+      "lyrics": "Sharper than the tip of any bayonet"
+    },
+    {
+      "timestamp": 84,
+      "lyrics": "I pack a hidden blade and I make you lay on it"
+    },
+    {
+      "timestamp": 86,
+      "lyrics": "Whether minutemen or redcoats"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "It'll only take a minute at the very most"
+    },
+    {
+      "timestamp": 89,
+      "lyrics": "'Til they're both dead, ghosts"
+    },
+    {
+      "timestamp": 90,
+      "lyrics": "I dead both"
+    },
+    {
+      "timestamp": 91,
+      "lyrics": "Behead foes"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "'Til stocks and shares in lead rose"
+    },
+    {
+      "timestamp": 93,
+      "lyrics": "From Boston to New York"
+    },
+    {
+      "timestamp": 94,
+      "lyrics": "Soul of an eagle"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "Aloft in a true hawk"
+    },
+    {
+      "timestamp": 96,
+      "lyrics": "And as I move through the frontier"
+    },
+    {
+      "timestamp": 97,
+      "lyrics": "The truth becomes clear"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "The future calls, I'm done here"
+    },
+    {
+      "timestamp": 99,
+      "lyrics": "Almost"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "I've just got another little task"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "And I won't tell"
+    },
+    {
+      "timestamp": 102,
+      "lyrics": "If you don't ask"
+    },
+    {
+      "timestamp": 103,
+      "lyrics": "Because"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "I'm an assassin"
+    },
+    {
+      "timestamp": 105,
+      "lyrics": "One with a passion"
+    },
+    {
+      "timestamp": 106,
+      "lyrics": "For innovative rapping"
+    },
+    {
+      "timestamp": 107,
+      "lyrics": "Dropping so fast"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "You're probably having"
+    },
+    {
+      "timestamp": 109,
+      "lyrics": "A problem to follow the captions"
+    },
+    {
+      "timestamp": 110,
+      "lyrics": "Said I'm an assassin"
+    },
+    {
+      "timestamp": 112,
+      "lyrics": "One with a passion"
+    },
+    {
+      "timestamp": 113,
+      "lyrics": "For innovative rapping"
+    },
+    {
+      "timestamp": 114,
+      "lyrics": "Dropping so fast"
+    },
+    {
+      "timestamp": 115,
+      "lyrics": "You're probably having"
+    },
+    {
+      "timestamp": 117,
+      "lyrics": "A problem to follow the captions"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song narrates the story of Connor, an assassin with exceptional skills. Despite the ongoing war, he remains detached, focused on his mission of hunting down his targets. He is determined and relentless, using his tomahawk and hidden blade to eliminate his enemies. His actions are driven by a strong sense of purpose, and he remains unyielding in his pursuit of justice, ignoring criticism and following his own path.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b967d827ea1797d35a448"
+  },
+  "yt_id": "9bZILBqDuqw",
+  "title": "Ad Infinitum",
+  "author": "The Stupendium",
+  "thumbnail": "https://lh3.googleusercontent.com/fme98YSxwKWttIDCewwOHsgod_x0ifeOhbIQvI3j2Ywg81UUxQpX4y8ZCCDb0KJ94cRXmEpfjpeYcn0=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 4,
+      "lyrics": "Woah! If it isn't a Lightner!"
+    },
+    {
+      "timestamp": 6,
+      "lyrics": "Hey, hey, hey, hey, hey, hey!"
+    },
+    {
+      "timestamp": 7,
+      "lyrics": "Looks like you're all alone on a late night?"
+    },
+    {
+      "timestamp": 9,
+      "lyrics": "All your friends abandoned you for the slime you are?"
+    },
+    {
+      "timestamp": 12,
+      "lyrics": "Sales gone down the drain? Drain?"
+    },
+    {
+      "timestamp": 14,
+      "lyrics": "Living in a goddamn garbage can?"
+    },
+    {
+      "timestamp": 16,
+      "lyrics": "Hae-ahaa-hae-ahaa-eah!"
+    },
+    {
+      "timestamp": 19,
+      "lyrics": "Friend, either you're closing your eyes"
+    },
+    {
+      "timestamp": 21,
+      "lyrics": "To savings you do not wish to acknowledge"
+    },
+    {
+      "timestamp": 23,
+      "lyrics": "Or you are not aware of the calibre of discounts"
+    },
+    {
+      "timestamp": 25,
+      "lyrics": "Indicated by the presence of a heart-shaped object"
+    },
+    {
+      "timestamp": 27,
+      "lyrics": "In your community"
+    },
+    {
+      "timestamp": 30,
+      "lyrics": "Hey, kid, look at you! Right time, right place!"
+    },
+    {
+      "timestamp": 32,
+      "lyrics": "Ripe for the picking! Right money in your pocket!"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "You're so lucky! Very lucky! Oh, so very, very lucky!"
+    },
+    {
+      "timestamp": 35,
+      "lyrics": "That you get to be investing in this Very Special Product"
+    },
+    {
+      "timestamp": 37,
+      "lyrics": "From everybody's favourite number one rated salesman"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "Circa 1997, mighty proud to say it! Mighty proud to say it!"
+    },
+    {
+      "timestamp": 42,
+      "lyrics": "Yes, I'm mighty proud to say it! Yes, sir!"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "Don't you wanna have a little fun, little sponge?"
+    },
+    {
+      "timestamp": 46,
+      "lyrics": "Little something to pluck you from the glum humdrum?"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Live comfortably, capital at risk! Yum, yum!"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "Listen up! For the offer only comes just once!"
+    },
+    {
+      "timestamp": 51,
+      "lyrics": "Hey, chum! I can see you're having violent thoughts!"
+    },
+    {
+      "timestamp": 52,
+      "lyrics": "But don't you wanna, wanna be a, be a big shot?"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "Enquire today! While the secret's in stock!"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": "All you gotta do is"
+    },
+    {
+      "timestamp": 57,
+      "lyrics": "Hyperlink blocked"
+    },
+    {
+      "timestamp": 58,
+      "lyrics": "I used to be nothing but the email guy"
+    },
+    {
+      "timestamp": 60,
+      "lyrics": "Now I'm the \"It burns! Ow! Stop! Stop! Help me! It burns!\" guy"
+    },
+    {
+      "timestamp": 64,
+      "lyrics": "We've got never bettered bargains, we've got deals you won't believe"
+    },
+    {
+      "timestamp": 68,
+      "lyrics": "We can tell you what you want before you realise what you need"
+    },
+    {
+      "timestamp": 71,
+      "lyrics": "If you'll pardon us the jargon, here's our Darkner guarantee"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "We take cash or card or credit, but we'll take your heart for free"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "Are you feeling down? Have you lost control?"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "Is your life a mess? Do your friends despise you?"
+    },
+    {
+      "timestamp": 81,
+      "lyrics": "Well, here's one weird trick discovered by a mom"
+    },
+    {
+      "timestamp": 83,
+      "lyrics": "And I'm sure number five will surprise you"
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "All you've ever dreamed of, shining, glistening"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "Gotta buckle up! Grab life by the silly string!"
+    },
+    {
+      "timestamp": 88,
+      "lyrics": "You can have it! You can have it! Say the word, it's yours!"
+    },
+    {
+      "timestamp": 90,
+      "lyrics": "Eahaehaehaehaeh! I wasn't listening"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "See, it says just here, right here, last year"
+    },
+    {
+      "timestamp": 94,
+      "lyrics": "On the third of the fourth at five-o-six"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "You searched cat pics online, well, that's just fine"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "Moist, delicious cookies"
+    },
+    {
+      "timestamp": 99,
+      "lyrics": "Little tippy tap kitty catalyst"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "Now we have a list"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "And we'll guess what ever habit is"
+    },
+    {
+      "timestamp": 102,
+      "lyrics": "Wanna buy a cat flap? Cat food? Catchup? Catamaran?"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "You'll be categorically catatonic"
+    },
+    {
+      "timestamp": 106,
+      "lyrics": "At the catalogue of categories I have at my hands"
+    },
+    {
+      "timestamp": 107,
+      "lyrics": "A cavalcade of all your favourite brands"
+    },
+    {
+      "timestamp": 109,
+      "lyrics": "An advertism schism cataclysm, cash on demand!"
+    },
+    {
+      "timestamp": 110,
+      "lyrics": "You'd better cancel your plans!"
+    },
+    {
+      "timestamp": 111,
+      "lyrics": "Cash for the crackers and the pickles and the flypaper!"
+    },
+    {
+      "timestamp": 113,
+      "lyrics": "Wanna buy a cat plush? Plush toy? Toy box? Box wine?"
+    },
+    {
+      "timestamp": 115,
+      "lyrics": "Why won't Mike just call me?"
+    },
+    {
+      "timestamp": 116,
+      "lyrics": "Backgammon? Ham and eggs? Egg chair? Chair bed?"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": "Bed bath? Bath sponge?"
+    },
+    {
+      "timestamp": 119,
+      "lyrics": "Sponge who hates it's $4.99?"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "Lifeboat? Boat shoe? Shoestring? String bean?"
+    },
+    {
+      "timestamp": 122,
+      "lyrics": "Bean bag? Bagpipes? Pipe bomb? Bomber jacket?"
+    },
+    {
+      "timestamp": 124,
+      "lyrics": "Jackdaw? Doorstop?"
+    },
+    {
+      "timestamp": 125,
+      "lyrics": "Stop! No, please! Don't take my furniture!"
+    },
+    {
+      "timestamp": 126,
+      "lyrics": "Stopwatch? Watchdog? Dog collar? Colorado?"
+    },
+    {
+      "timestamp": 128,
+      "lyrics": "Adderall? Ads are all seeping! Ping pong? Ponchos?"
+    },
+    {
+      "timestamp": 130,
+      "lyrics": "Choke chains? Chainsaws? Swordfish-shish kebab-bobcat?"
+    },
+    {
+      "timestamp": 132,
+      "lyrics": "Do you want a cat or not?"
+    },
+    {
+      "timestamp": 133,
+      "lyrics": "Well, you wanna be a big shot, don't you?"
+    },
+    {
+      "timestamp": 135,
+      "lyrics": "Don't you wanna be the next big thing?"
+    },
+    {
+      "timestamp": 137,
+      "lyrics": "You can do it! Yes, it's true, it's really true"
+    },
+    {
+      "timestamp": 138,
+      "lyrics": "There's nothing to it, I can prove it!"
+    },
+    {
+      "timestamp": 139,
+      "lyrics": "Hear the registers ring!"
+    },
+    {
+      "timestamp": 140,
+      "lyrics": "Ring, ring, ring, ring, ring, ring, ring, ring, ring"
+    },
+    {
+      "timestamp": 142,
+      "lyrics": "You're kidding? It's for you"
+    },
+    {
+      "timestamp": 144,
+      "lyrics": "Wanna know a secret?"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "Hyperlink blocked"
+    },
+    {
+      "timestamp": 147,
+      "lyrics": "You too can have a communion with-"
+    },
+    {
+      "timestamp": 150,
+      "lyrics": "Soon, I'll even surpass that damned clown around town!"
+    },
+    {
+      "timestamp": 153,
+      "lyrics": "We've got never bettered bargains, we've got deals you won't believe"
+    },
+    {
+      "timestamp": 157,
+      "lyrics": "We can tell you what you want before you realise what you need"
+    },
+    {
+      "timestamp": 160,
+      "lyrics": "If you'll pardon us the jargon, here's our Darkner guarantee"
+    },
+    {
+      "timestamp": 164,
+      "lyrics": "We take cash or card or credit, but we'll take your heart for free"
+    },
+    {
+      "timestamp": 167,
+      "lyrics": "Holy cungadero, there, you funky, little worm"
+    },
+    {
+      "timestamp": 169,
+      "lyrics": "You seem unaware of all the money you could earn"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "If you wanna get the gold"
+    },
+    {
+      "timestamp": 172,
+      "lyrics": "Well, there is stuff you gotta learn"
+    },
+    {
+      "timestamp": 172,
+      "lyrics": "Milk the humans of their kindness"
+    },
+    {
+      "timestamp": 173,
+      "lyrics": "Then there's butter to be churned"
+    },
+    {
+      "timestamp": 174,
+      "lyrics": "You, want, it, need, it!"
+    },
+    {
+      "timestamp": 176,
+      "lyrics": "Don't, you, see?"
+    },
+    {
+      "timestamp": 177,
+      "lyrics": "But if you wanna make your screen green"
+    },
+    {
+      "timestamp": 179,
+      "lyrics": "You're gonna need my Kromer key"
+    },
+    {
+      "timestamp": 181,
+      "lyrics": "Yes, you've got trouble, my friend! Whadayatalk?"
+    },
+    {
+      "timestamp": 182,
+      "lyrics": "Right here in Cyber City!"
+    },
+    {
+      "timestamp": 184,
+      "lyrics": "See, I used to be a top-notch! Big shot!"
+    },
+    {
+      "timestamp": 185,
+      "lyrics": "Best deals! Best wheels! Best prices in the tri-state area"
+    },
+    {
+      "timestamp": 188,
+      "lyrics": "But you can get it back! Ha-ha-ha! Yes, you can!"
+    },
+    {
+      "timestamp": 190,
+      "lyrics": "All you gotta do is follow through my 12-step plan"
+    },
+    {
+      "timestamp": 191,
+      "lyrics": "Bigger, bigger, better, like the telephone was telling me"
+    },
+    {
+      "timestamp": 193,
+      "lyrics": "You gotta know the territory! Spend a hand, lend a hand"
+    },
+    {
+      "timestamp": 195,
+      "lyrics": "Who's gonna patronise a little bitty"
+    },
+    {
+      "timestamp": 196,
+      "lyrics": "Two by four kinda store anymore?"
+    },
+    {
+      "timestamp": 198,
+      "lyrics": "Gotta go! Gotta get! Gotta get on and go!"
+    },
+    {
+      "timestamp": 199,
+      "lyrics": "Make a deal! Big deal! High score! Our store is closing!"
+    },
+    {
+      "timestamp": 202,
+      "lyrics": "Hot tip! Drop shipping! Four, three, two, one!"
+    },
+    {
+      "timestamp": 204,
+      "lyrics": "Not skipping offers wired into your inbox"
+    },
+    {
+      "timestamp": 205,
+      "lyrics": "Swing by the gift shop! Think of the big shot!"
+    },
+    {
+      "timestamp": 207,
+      "lyrics": "All this and more, click"
+    },
+    {
+      "timestamp": 208,
+      "lyrics": "Hyperlink blocked"
+    },
+    {
+      "timestamp": 211,
+      "lyrics": "Can anyone hear me?"
+    },
+    {
+      "timestamp": 215,
+      "lyrics": "Help"
+    },
+    {
+      "timestamp": 218,
+      "lyrics": "Mike"
+    },
+    {
+      "timestamp": 220,
+      "lyrics": "Mike?"
+    },
+    {
+      "timestamp": 221,
+      "lyrics": "Ha-ha-ha-ha!"
+    },
+    {
+      "timestamp": 222,
+      "lyrics": "We've got never bettered bargains, we've got deals you won't believe"
+    },
+    {
+      "timestamp": 225,
+      "lyrics": "We can tell you what you want before you realise what you need"
+    },
+    {
+      "timestamp": 229,
+      "lyrics": "If you'll pardon us the jargon, here's our Darkner guarantee"
+    },
+    {
+      "timestamp": 232,
+      "lyrics": "We take cash or card or credit, but we'll take your heart for free"
+    },
+    {
+      "timestamp": 236,
+      "lyrics": "Insurance! Know that I'm the best in policy!"
+    },
+    {
+      "timestamp": 238,
+      "lyrics": "Honestly, do you wanna end in poverty?"
+    },
+    {
+      "timestamp": 239,
+      "lyrics": "Buddy, I'm the one to help invest it properly!"
+    },
+    {
+      "timestamp": 241,
+      "lyrics": "I'm here to talk about extended warranty!"
+    },
+    {
+      "timestamp": 243,
+      "lyrics": "It's a super, bumper, liquidation, last chance"
+    },
+    {
+      "timestamp": 244,
+      "lyrics": "First day, half price, fire sale like never before!"
+    },
+    {
+      "timestamp": 246,
+      "lyrics": "And it's there to explore, when you step in the door"
+    },
+    {
+      "timestamp": 248,
+      "lyrics": "The very model of a modern major general store!"
+    },
+    {
+      "timestamp": 250,
+      "lyrics": "But the fact is everybody's gotta have it, gotta have it"
+    },
+    {
+      "timestamp": 251,
+      "lyrics": "Those who have it really have it"
+    },
+    {
+      "timestamp": 252,
+      "lyrics": "If you haven't, well, you've had it, couldn't hack it"
+    },
+    {
+      "timestamp": 253,
+      "lyrics": "Now the haven'ts haven't had it and the haves are very glad it's"
+    },
+    {
+      "timestamp": 255,
+      "lyrics": "Just the haven'ts that're lacking what they're having"
+    },
+    {
+      "timestamp": 256,
+      "lyrics": "Now the ads have got the traffic"
+    },
+    {
+      "timestamp": 257,
+      "lyrics": "And we've grabbed your demographic"
+    },
+    {
+      "timestamp": 258,
+      "lyrics": "So you're packing up your basket"
+    },
+    {
+      "timestamp": 259,
+      "lyrics": "'Cause your dad has gotta have it"
+    },
+    {
+      "timestamp": 260,
+      "lyrics": "He'll be sad if you don't wrap it with a tag, it'll be tragic"
+    },
+    {
+      "timestamp": 261,
+      "lyrics": "So you're manically grabbing at the shelves amid the panic"
+    },
+    {
+      "timestamp": 263,
+      "lyrics": "Seems that everybody has it, man, you really gotta have it"
+    },
+    {
+      "timestamp": 265,
+      "lyrics": "So you get it, you're ecstatic, but a crackle in the static"
+    },
+    {
+      "timestamp": 267,
+      "lyrics": "And the it is out of fashion, just a fad, a piece of plastic"
+    },
+    {
+      "timestamp": 268,
+      "lyrics": "So you trash it, then you get back in your car 'cause you don't have it"
+    },
+    {
+      "timestamp": 270,
+      "lyrics": "And the fact is everybody's gotta have it, gotta have it"
+    },
+    {
+      "timestamp": 272,
+      "lyrics": "Those who have it really have it"
+    },
+    {
+      "timestamp": 273,
+      "lyrics": "If you haven't, well, you've had it, couldn't hack it"
+    },
+    {
+      "timestamp": 274,
+      "lyrics": "Now the haven'ts haven't had it and the haves are very glad it's"
+    },
+    {
+      "timestamp": 276,
+      "lyrics": "Hochi mama! What a mouthful!"
+    },
+    {
+      "timestamp": 277,
+      "lyrics": "In the encyclopedia of being afraid"
+    },
+    {
+      "timestamp": 279,
+      "lyrics": "There ain't nothing to be scared of 'til there's fees to be paid"
+    },
+    {
+      "timestamp": 280,
+      "lyrics": "There's deals to be made with seasonal savings!"
+    },
+    {
+      "timestamp": 282,
+      "lyrics": "Regional ratings are lethally fading"
+    },
+    {
+      "timestamp": 284,
+      "lyrics": "Screaming and raving, ceaseless appraising"
+    },
+    {
+      "timestamp": 286,
+      "lyrics": "Neat, little plate with a needless engraving"
+    },
+    {
+      "timestamp": 287,
+      "lyrics": "Legally grey, but sweet with the phrasing"
+    },
+    {
+      "timestamp": 289,
+      "lyrics": "Feet in the grave, but gleefully trading"
+    },
+    {
+      "timestamp": 291,
+      "lyrics": "Feeding the cravings, eat, little plaything"
+    },
+    {
+      "timestamp": 293,
+      "lyrics": "Deals so good I'll-, myself"
+    },
+    {
+      "timestamp": 294,
+      "lyrics": "Feeding the cravings, eat, little plaything"
+    },
+    {
+      "timestamp": 296,
+      "lyrics": "Gone with the sugar barrel, pickle barrel, milk pan"
+    },
+    {
+      "timestamp": 298,
+      "lyrics": "Feeding the cravings, eat, little plaything"
+    },
+    {
+      "timestamp": 299,
+      "lyrics": "I can feel that smooth taste already!"
+    },
+    {
+      "timestamp": 301,
+      "lyrics": "Feeding the cravings, eat, little plaything"
+    },
+    {
+      "timestamp": 304,
+      "lyrics": "Hyperlink blocked"
+    },
+    {
+      "timestamp": 305,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The lyrics portray a relentless and overwhelming sales pitch from a cunning salesperson, exploiting the desires and vulnerabilities of the listener. The salesperson employs an aggressive and manipulative tone, tempting the listener with irresistible offers and a sense of urgency. However, beneath the enticing surface, there's a sinister undercurrent, hinting at the potential consequences of falling prey to the salesperson's schemes. The lyrics serve as a cautionary tale against impulsive purchasing and the dangers of being swayed by persuasive marketing tactics.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b96a3827ea1797d35a449"
+  },
+  "yt_id": "nbqMIBYJlvk",
+  "title": "Godzilla (feat. Juice WRLD)",
+  "author": "Eminem",
+  "thumbnail": "https://lh3.googleusercontent.com/gSjSpiwhol20w2GLjYSR81AOBvdo1UiLRBeu8RbVuRZjtHh6yipa22c26_TZK2Jm7_BGi4FApSXFIZo2VA=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 0,
+      "lyrics": "(Ugh, you're a monster)"
+    },
+    {
+      "timestamp": 2,
+      "lyrics": "I can swallow a bottle of alcohol and I'll feel like Godzilla"
+    },
+    {
+      "timestamp": 6,
+      "lyrics": "Better hit the deck like the card dealer"
+    },
+    {
+      "timestamp": 8,
+      "lyrics": "My whole squad's in here, walkin' around the party"
+    },
+    {
+      "timestamp": 10,
+      "lyrics": "A cross between a zombie apocalypse and B-Bobby, \"The"
+    },
+    {
+      "timestamp": 13,
+      "lyrics": "Brain\" Heenan which is probably the same reason I wrestle with mania"
+    },
+    {
+      "timestamp": 17,
+      "lyrics": "Shady's in this bitch, I'm posse'd up"
+    },
+    {
+      "timestamp": 18,
+      "lyrics": "Consider it to cross me a costly mistake"
+    },
+    {
+      "timestamp": 20,
+      "lyrics": "If they sleepin' on me, the hoes better get insomnia, ADHD, Hydroxycut"
+    },
+    {
+      "timestamp": 24,
+      "lyrics": "Pass the Courvoisi' (hey, hey)"
+    },
+    {
+      "timestamp": 26,
+      "lyrics": "In AA, with an AK, melee, finna set it like a play date"
+    },
+    {
+      "timestamp": 29,
+      "lyrics": "Better vacate, retreat like a vacay, mayday (ayy)"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "This beat is cray-cray, Ray J, H-A-H-A-H-A"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "Laughin' all the way to the bank, I spray flames"
+    },
+    {
+      "timestamp": 36,
+      "lyrics": "They cannot tame or placate the (ayy)"
+    },
+    {
+      "timestamp": 37,
+      "lyrics": "Monster"
+    },
+    {
+      "timestamp": 38,
+      "lyrics": "You get in my way? I'ma feed you to the monster (yeah)"
+    },
+    {
+      "timestamp": 40,
+      "lyrics": "I'm normal during the day, but at night turn to a monster (yeah)"
+    },
+    {
+      "timestamp": 43,
+      "lyrics": "When the moon shines like Ice Road Truckers"
+    },
+    {
+      "timestamp": 46,
+      "lyrics": "I look like a villain outta those blockbusters"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "(Godzilla, fire-spitter) monster"
+    },
+    {
+      "timestamp": 51,
+      "lyrics": "Blood on the dance floor, and on the Louis V carpet"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "(Fire, Godzilla, fire) monster"
+    },
+    {
+      "timestamp": 57,
+      "lyrics": "Blood on the dance floor, and on the Louis V carpet"
+    },
+    {
+      "timestamp": 59,
+      "lyrics": "I'm just a product of Slick Rick, at Onyx, told 'em lick the balls"
+    },
+    {
+      "timestamp": 62,
+      "lyrics": "Had 'em just appalled at so many things that pissed 'em off"
+    },
+    {
+      "timestamp": 64,
+      "lyrics": "It's impossible to list 'em all"
+    },
+    {
+      "timestamp": 65,
+      "lyrics": "And in the midst of all this"
+    },
+    {
+      "timestamp": 67,
+      "lyrics": "I'm in a mental hospital with a crystal ball"
+    },
+    {
+      "timestamp": 68,
+      "lyrics": "Tryna see, will I still be like this tomorrow?"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Risperdal, voices whisper"
+    },
+    {
+      "timestamp": 71,
+      "lyrics": "My fist is balled back up against the wall, pencil drawn"
+    },
+    {
+      "timestamp": 73,
+      "lyrics": "This is just the song to go ballistic on"
+    },
+    {
+      "timestamp": 75,
+      "lyrics": "You just pulled a pistol on the guy with the missile launcher"
+    },
+    {
+      "timestamp": 77,
+      "lyrics": "I'm just a Loch Ness, the mythological"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "Quick to tell a bitch screw off like a fifth of Vodka"
+    },
+    {
+      "timestamp": 81,
+      "lyrics": "When you twist the top of the bottle, I'm a"
+    },
+    {
+      "timestamp": 83,
+      "lyrics": "Monster"
+    },
+    {
+      "timestamp": 84,
+      "lyrics": "You get in my way? I'ma feed you to the monster (yeah)"
+    },
+    {
+      "timestamp": 86,
+      "lyrics": "I'm normal during the day, but at night turn to a monster (yeah)"
+    },
+    {
+      "timestamp": 89,
+      "lyrics": "When the moon shines like Ice Road Truckers"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "I look like a villain outta those blockbusters"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "(Godzilla, fire-spitter) monster"
+    },
+    {
+      "timestamp": 97,
+      "lyrics": "Blood on the dance floor, and on the Louis V carpet"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "(Fire, Godzilla, fire) monster"
+    },
+    {
+      "timestamp": 103,
+      "lyrics": "Blood on the dance floor, and on the Louis V carpet"
+    },
+    {
+      "timestamp": 105,
+      "lyrics": "If you never gave a damn, raise your hand"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "'Cause I'm about to set trip, vacation plans"
+    },
+    {
+      "timestamp": 111,
+      "lyrics": "I'm on point, like my index is, so all you will ever get is"
+    },
+    {
+      "timestamp": 114,
+      "lyrics": "The motherfuckin' finger (finger), prostate exam ('xam)"
+    },
+    {
+      "timestamp": 117,
+      "lyrics": "How can I have all these fans and perspire?"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": "Like a liar's pants, I'm on fire"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "And I got no plans to retire, and I'm still the man you admire"
+    },
+    {
+      "timestamp": 123,
+      "lyrics": "These chicks are spazzin' out, I only get more handsome and flier"
+    },
+    {
+      "timestamp": 126,
+      "lyrics": "I got 'em passin' out like what you do, when you hand someone flyers"
+    },
+    {
+      "timestamp": 129,
+      "lyrics": "What goes around, comes around just like the blades on a chainsaw"
+    },
+    {
+      "timestamp": 132,
+      "lyrics": "'Cause I caught the flaps of my dollar stack"
+    },
+    {
+      "timestamp": 133,
+      "lyrics": "Right off the bat like a baseball, like Kid Ink"
+    },
+    {
+      "timestamp": 135,
+      "lyrics": "Bitch, I got them racks with so much ease that they call me Diddy"
+    },
+    {
+      "timestamp": 138,
+      "lyrics": "'Cause I make bands and I call getting cheese a cakewalk (cheesecake!)"
+    },
+    {
+      "timestamp": 141,
+      "lyrics": "Bitch, I'm a player, I'm too motherfuckin' stingy for Cher"
+    },
+    {
+      "timestamp": 143,
+      "lyrics": "Won't even lend you an ear, ain't even pretendin' to care"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "But I tell a bitch I'll marry her, if she'll bury her"
+    },
+    {
+      "timestamp": 147,
+      "lyrics": "Face on my genital area, the original Richard Ramirez"
+    },
+    {
+      "timestamp": 149,
+      "lyrics": "Christian Rivera"
+    },
+    {
+      "timestamp": 150,
+      "lyrics": "'Cause my lyrics never sit well, so they wanna give me the chair"
+    },
+    {
+      "timestamp": 152,
+      "lyrics": "Like a paraplegic, and it's scary, call it Harry Carry"
+    },
+    {
+      "timestamp": 154,
+      "lyrics": "'Cause every Tom and Dick and Harry"
+    },
+    {
+      "timestamp": 156,
+      "lyrics": "Carry a Merriam motherfuckin' dictionary"
+    },
+    {
+      "timestamp": 157,
+      "lyrics": "Got 'em swearin' up and down, they can't spit, this shit's hilarious"
+    },
+    {
+      "timestamp": 160,
+      "lyrics": "It's time to put these bitches in the obituary column"
+    },
+    {
+      "timestamp": 161,
+      "lyrics": "We wouldn't see eye to eye with a staring problem"
+    },
+    {
+      "timestamp": 163,
+      "lyrics": "Get the shaft like a steering column (monster)"
+    },
+    {
+      "timestamp": 165,
+      "lyrics": "Trigger-happy, pack heat, but it's black ink"
+    },
+    {
+      "timestamp": 166,
+      "lyrics": "Evil half of the Bad Meets Evil"
+    },
+    {
+      "timestamp": 168,
+      "lyrics": "That means take a back seat"
+    },
+    {
+      "timestamp": 168,
+      "lyrics": "Take it back to Fat Beats with a maxi single"
+    },
+    {
+      "timestamp": 170,
+      "lyrics": "Look at my rap sheets, what attracts these people"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "Is my gangster, bitch, like Apache with a catchy jingle"
+    },
+    {
+      "timestamp": 174,
+      "lyrics": "I stack these chips, you barely got a half-eaten Cheeto"
+    },
+    {
+      "timestamp": 177,
+      "lyrics": "Fill 'em with the venom, and eliminate 'em"
+    },
+    {
+      "timestamp": 178,
+      "lyrics": "Other words, I Minute Maid 'em"
+    },
+    {
+      "timestamp": 179,
+      "lyrics": "I don't wanna hurt 'em, but I did, I'm in a fit of rage"
+    },
+    {
+      "timestamp": 180,
+      "lyrics": "I'm murderin' again, nobody will evade"
+    },
+    {
+      "timestamp": 181,
+      "lyrics": "I'm finna kill 'em, I'm dumpin' their fuckin' bodies in the lake"
+    },
+    {
+      "timestamp": 183,
+      "lyrics": "Obliteratin' everything, incinerate a renegade"
+    },
+    {
+      "timestamp": 184,
+      "lyrics": "I'm here to make anybody who want it with the pen afraid"
+    },
+    {
+      "timestamp": 186,
+      "lyrics": "But don't nobody want it but they're gonna get it anyway"
+    },
+    {
+      "timestamp": 187,
+      "lyrics": "'Cause I'm beginnin' to feel like I'm mentally ill"
+    },
+    {
+      "timestamp": 188,
+      "lyrics": "I'm Atilla, kill or be killed, I'm a killer bee, the vanilla gorilla"
+    },
+    {
+      "timestamp": 190,
+      "lyrics": "You're bringin' the killer within me, out of me"
+    },
+    {
+      "timestamp": 191,
+      "lyrics": "You don't want to be the enemy of the demon"
+    },
+    {
+      "timestamp": 192,
+      "lyrics": "Who went in me, and be on the receiving of me, what stupidity it'd be"
+    },
+    {
+      "timestamp": 194,
+      "lyrics": "Every bit of me is the epitome of a spitter"
+    },
+    {
+      "timestamp": 196,
+      "lyrics": "When I'm in the vicinity, motherfucker, you better duck"
+    },
+    {
+      "timestamp": 197,
+      "lyrics": "Or you finna be dead the minute you run into me"
+    },
+    {
+      "timestamp": 198,
+      "lyrics": "A hundred percent of you is a fifth of a percent of me"
+    },
+    {
+      "timestamp": 200,
+      "lyrics": "I'm 'bout to fuckin' finish you bitch, I'm unfadable"
+    },
+    {
+      "timestamp": 201,
+      "lyrics": "You wanna battle, I'm available, I'm blowin' up like an inflatable"
+    },
+    {
+      "timestamp": 203,
+      "lyrics": "I'm undebatable, I'm unavoidable, I'm unevadable"
+    },
+    {
+      "timestamp": 204,
+      "lyrics": "I'm on the toilet bowl"
+    },
+    {
+      "timestamp": 205,
+      "lyrics": "I got a trailer full of money, and I'm paid in full"
+    },
+    {
+      "timestamp": 206,
+      "lyrics": "I'm not afraid to pull a-, man, stop"
+    },
+    {
+      "timestamp": 208,
+      "lyrics": "Look what I'm plannin' (haha)"
+    },
+    {
+      "timestamp": 209,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The lyrics depict a persona struggling with inner turmoil and self-destructive tendencies. They express a desire for violence and dominance, while also acknowledging the negative consequences of such behavior. The use of metaphors like \"Godzilla\" and \"monster\" symbolizes the persona's self-destructive nature and the potential for harm they may cause to themselves and others. The lyrics explore themes of mental illness, addiction, and the destructive power of anger and hatred.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b96c5827ea1797d35a44a"
+  },
+  "yt_id": "9nhEeMObvJk",
+  "title": "Tone Deaf",
+  "author": "Eminem",
+  "thumbnail": "https://lh3.googleusercontent.com/Zna3iLEEUvPiNSMKt9YKT50KH7Y3GKbMUIqRVi1xm9HOYyzPfQUOZ9tjcsdh847ltomBQF3cWjzdIs3X=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 7,
+      "lyrics": "Yeah, I'm sorry (huh?)"
+    },
+    {
+      "timestamp": 9,
+      "lyrics": "What did you say?"
+    },
+    {
+      "timestamp": 13,
+      "lyrics": "Oh, I can't hear you"
+    },
+    {
+      "timestamp": 17,
+      "lyrics": "I have an ear infucktion and I cunt finger it out (out), yeah (I need autotune)"
+    },
+    {
+      "timestamp": 22,
+      "lyrics": "Yeah"
+    },
+    {
+      "timestamp": 22,
+      "lyrics": "It's my alter ego's fault"
+    },
+    {
+      "timestamp": 23,
+      "lyrics": "These evil thoughts can be so dark"
+    },
+    {
+      "timestamp": 25,
+      "lyrics": "Cerebral palsy, three Zolofts"
+    },
+    {
+      "timestamp": 27,
+      "lyrics": "I eat, doze off to \"Rico Suave\" (look it up)"
+    },
+    {
+      "timestamp": 30,
+      "lyrics": "Cadillac with a ladder rack in the back, with a cracked axel"
+    },
+    {
+      "timestamp": 32,
+      "lyrics": "A backpack full of Paxil, a black satchel, a knapsack"
+    },
+    {
+      "timestamp": 35,
+      "lyrics": "And a flask full of 'gnac and Jack Daniels"
+    },
+    {
+      "timestamp": 37,
+      "lyrics": "Girl, let's go back, back to my castle (yeah)"
+    },
+    {
+      "timestamp": 38,
+      "lyrics": "I don't wanna hassle you, Alexandra"
+    },
+    {
+      "timestamp": 42,
+      "lyrics": "But my dick's an acronym 'cause it stands for you (stands for you, oh)"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "Wait, Alexandra who? (Damn)"
+    },
+    {
+      "timestamp": 46,
+      "lyrics": "All I know is Friday, I met you (what?)"
+    },
+    {
+      "timestamp": 48,
+      "lyrics": "Saturday, I'll probably forget you"
+    },
+    {
+      "timestamp": 50,
+      "lyrics": "Guess that's what the Molly and X do (what the fuck?)"
+    },
+    {
+      "timestamp": 52,
+      "lyrics": "'Cause who the fuck am I laying next to? (Huh)"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "But ever since D-Nice To Tha Rescue, Fila Fresh Crew (uh)"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": "I been a lab rat (yeah) from a test tube (uh)"
+    },
+    {
+      "timestamp": 59,
+      "lyrics": "I'm goin' in like the Red Roof (Red Roof Inn)"
+    },
+    {
+      "timestamp": 62,
+      "lyrics": "You don't like it, eat a cock 'til your jaw breaks (yeah)"
+    },
+    {
+      "timestamp": 64,
+      "lyrics": "Call it caught between a rock and a hard place"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "Like a sasquatch in a crawlspace"
+    },
+    {
+      "timestamp": 68,
+      "lyrics": "'Cause you're watchin' your heart race like you're Scarface"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "In a car chase with the cops or an arcade"
+    },
+    {
+      "timestamp": 71,
+      "lyrics": "Stuck inside of a Mario Kart race duckin' saw blades"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "At a stop and a start pace"
+    },
+    {
+      "timestamp": 76,
+      "lyrics": "What I'm tryin' to say is I'm drivin' 'em all crazy (hahaha)"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "I can't understand a word you say (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 81,
+      "lyrics": "I think this way I prefer to stay (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "I won't stop even when my hair turns grey (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 90,
+      "lyrics": "'Cause they won't stop until they cancel me (yeah, yeah)"
+    },
+    {
+      "timestamp": 93,
+      "lyrics": "I see the rap game, then attack the verses (uh)"
+    },
+    {
+      "timestamp": 96,
+      "lyrics": "Turn into a graveyard packed with hearses (yeah)"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "Just like your funeral, I'm at your service (what?)"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "Pockets on stuffed like a taxidermist (woo)"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "Just landed in Los Angeles when this chick Angela and her grandmother"
+    },
+    {
+      "timestamp": 105,
+      "lyrics": "In a tan colored van pull up with a hand full of Xans"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "And a substantial amount of gan' just to ask what my-"
+    },
+    {
+      "timestamp": 110,
+      "lyrics": "Plans-plans for the night are (yeah)"
+    },
+    {
+      "timestamp": 112,
+      "lyrics": "I said, \"Sneak into the Sleep Inn for the weekend"
+    },
+    {
+      "timestamp": 114,
+      "lyrics": "And pretend it's a five-star,\" yeah"
+    },
+    {
+      "timestamp": 116,
+      "lyrics": "I leap into the deep end of the pool"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": "I can show you where the dives are (get it?) Ha"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "We don't even gotta drive far"
+    },
+    {
+      "timestamp": 122,
+      "lyrics": "I know this spot that is so live"
+    },
+    {
+      "timestamp": 123,
+      "lyrics": "But I'm tryna get some head first (what?)"
+    },
+    {
+      "timestamp": 125,
+      "lyrics": "Like a nosedive (haha)"
+    },
+    {
+      "timestamp": 127,
+      "lyrics": "So many side chicks"
+    },
+    {
+      "timestamp": 128,
+      "lyrics": "Can't decide which to slide with and which should I ditch"
+    },
+    {
+      "timestamp": 131,
+      "lyrics": "So when it comes to ass, bitch"
+    },
+    {
+      "timestamp": 132,
+      "lyrics": "I get behind like the Heimlich (get behind, yeah)"
+    },
+    {
+      "timestamp": 136,
+      "lyrics": "Had one chick who liked to flip sometimes on some switchin' sides shit"
+    },
+    {
+      "timestamp": 138,
+      "lyrics": "Pushed her out, the side kick"
+    },
+    {
+      "timestamp": 140,
+      "lyrics": "Then I flipped the lil' white bitch off like a light switch (bitch)"
+    },
+    {
+      "timestamp": 142,
+      "lyrics": "It's okay not to like my shit"
+    },
+    {
+      "timestamp": 144,
+      "lyrics": "Everything's fine, drink your wine, bitch"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "And get offline, quit whinin', this is just a rhyme, bitch (rhyme, bitch)"
+    },
+    {
+      "timestamp": 149,
+      "lyrics": "But ask me will I stick to my guns (guns) like adhesive tape? (Adhesive tape)"
+    },
+    {
+      "timestamp": 152,
+      "lyrics": "Does Bill Cosby sedate once he treats to cheesecake and a decent steak? (Huh?)"
+    },
+    {
+      "timestamp": 155,
+      "lyrics": "You think gettin' rid of me's a piece of cake?"
+    },
+    {
+      "timestamp": 158,
+      "lyrics": "I'm harder than findin' Harvey Weinstein a date (damn)"
+    },
+    {
+      "timestamp": 160,
+      "lyrics": "And that's why they say I got more lines than Black Friday"
+    },
+    {
+      "timestamp": 163,
+      "lyrics": "So save that shit for the damn library (shh)"
+    },
+    {
+      "timestamp": 165,
+      "lyrics": "You heard of Kris Kristofferson? (Yeah)"
+    },
+    {
+      "timestamp": 167,
+      "lyrics": "Well, I am Piss Pissedofferson (oh)"
+    },
+    {
+      "timestamp": 170,
+      "lyrics": "Paul's askin' for Christmas off again"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "I said, \"No,\" then I spit this song for him"
+    },
+    {
+      "timestamp": 173,
+      "lyrics": "It goes"
+    },
+    {
+      "timestamp": 174,
+      "lyrics": "I can't understand a word you say (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 178,
+      "lyrics": "I think this way I prefer to stay (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 181,
+      "lyrics": "I won't stop even when my hair turns grey (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 186,
+      "lyrics": "'Cause they won't stop until they cancel me (yeah, yeah, yeah)"
+    },
+    {
+      "timestamp": 189,
+      "lyrics": "Bitch, I can make \"Orange\" rhyme with \"Banana\" (yeah)"
+    },
+    {
+      "timestamp": 191,
+      "lyrics": "Oranana"
+    },
+    {
+      "timestamp": 193,
+      "lyrics": "Eating pork rinds, sword fightin' in pajamas"
+    },
+    {
+      "timestamp": 195,
+      "lyrics": "At the crib, playin' Fortnite with your grandma"
+    },
+    {
+      "timestamp": 197,
+      "lyrics": "But I'm more like a four-five with the grammar"
+    },
+    {
+      "timestamp": 199,
+      "lyrics": "'Bout to show you why your five favorite rappers can't touch this"
+    },
+    {
+      "timestamp": 201,
+      "lyrics": "But before I get the hammer"
+    },
+    {
+      "timestamp": 203,
+      "lyrics": "I should warn you, I'm Thor-like in this manner (Thor)"
+    },
+    {
+      "timestamp": 205,
+      "lyrics": "But the day I lose sleep over you critiquin' me or"
+    },
+    {
+      "timestamp": 207,
+      "lyrics": "I ever let you cocksuckers eat at me"
+    },
+    {
+      "timestamp": 209,
+      "lyrics": "I'd need to be a motherfuckin' pizzeria"
+    },
+    {
+      "timestamp": 211,
+      "lyrics": "But you ain't gettin' no cheese from me"
+    },
+    {
+      "timestamp": 213,
+      "lyrics": "I went from Little Caesars, BLTses, grilled cheeses"
+    },
+    {
+      "timestamp": 217,
+      "lyrics": "Bein' dirt poor to filthy rich, I'm still me, bitch"
+    },
+    {
+      "timestamp": 219,
+      "lyrics": "Like a realtor, that's real tea, bitch (real talk)"
+    },
+    {
+      "timestamp": 222,
+      "lyrics": "Aftermath, bitch, whole camp's lit"
+    },
+    {
+      "timestamp": 224,
+      "lyrics": "We put out fire, Dre stamps it"
+    },
+    {
+      "timestamp": 226,
+      "lyrics": "With my cohorts, hit a bogart"
+    },
+    {
+      "timestamp": 227,
+      "lyrics": "Yeah, got your whole squad yellin', \"Oh, God\""
+    },
+    {
+      "timestamp": 230,
+      "lyrics": "Here comes Barshall with no holds barred"
+    },
+    {
+      "timestamp": 232,
+      "lyrics": "Bitch, I'm a hurricane, you're a blowhard"
+    },
+    {
+      "timestamp": 234,
+      "lyrics": "Like your old broad, she full of semen, like the coast guard (haha)"
+    },
+    {
+      "timestamp": 237,
+      "lyrics": "And life's been pretty good to me so far (yeah), for the most part"
+    },
+    {
+      "timestamp": 240,
+      "lyrics": "Had a couple of run-ins with popo, caught"
+    },
+    {
+      "timestamp": 242,
+      "lyrics": "A couple assault charges, got a few priors like crowbars (priors)"
+    },
+    {
+      "timestamp": 245,
+      "lyrics": "Which is so odd 'cause I'm 48 now"
+    },
+    {
+      "timestamp": 247,
+      "lyrics": "That 5-0's startin' to creep up on me like a patrol car (woo)"
+    },
+    {
+      "timestamp": 250,
+      "lyrics": "I'll be an old fart, but you don't want no part, so, bitch, don't start (don't start)"
+    },
+    {
+      "timestamp": 253,
+      "lyrics": "Simmer down, compose yourself, Mozart"
+    },
+    {
+      "timestamp": 255,
+      "lyrics": "I ain't went nowhere, call me coleslaw"
+    },
+    {
+      "timestamp": 257,
+      "lyrics": "'Cause I'm out for the cabbage and I'm so raw"
+    },
+    {
+      "timestamp": 259,
+      "lyrics": "And if time is money, you have no clocks"
+    },
+    {
+      "timestamp": 262,
+      "lyrics": "And any folk caught within close proximity's gettin' cold-cocked"
+    },
+    {
+      "timestamp": 265,
+      "lyrics": "My enemies, I'm a chimney, give me the smoke, opps"
+    },
+    {
+      "timestamp": 267,
+      "lyrics": "And R.I.P. to King Von, and it don't stop, and I know not"
+    },
+    {
+      "timestamp": 271,
+      "lyrics": "What the fuck you say? I told y'all, it ain't me, it's my alter ego's fault (haha)"
+    },
+    {
+      "timestamp": 274,
+      "lyrics": "But if y'all wanna cancel me, no prob"
+    },
+    {
+      "timestamp": 276,
+      "lyrics": "I'll tell you the same thing I told Paul (woo)"
+    },
+    {
+      "timestamp": 278,
+      "lyrics": "I can't understand a word you say (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 281,
+      "lyrics": "I think this way I prefer to stay (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 286,
+      "lyrics": "I won't stop even when my hair turns grey (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 289,
+      "lyrics": "'Cause they won't stop until they cancel me (I'm tone-deaf)"
+    },
+    {
+      "timestamp": 293,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song is a boastful and defiant anthem by an eccentric and self-destructive character who is unapologetically himself. He dismisses criticism and embraces his flaws, while also showcasing his intelligence and lyrical prowess. Despite his wild and reckless lifestyle, he remains confident in his abilities and refuses to conform to societal expectations. Ultimately, he is a complex and flawed individual who refuses to be silenced or canceled.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b971f827ea1797d35a44b"
+  },
+  "yt_id": "FBD7xF8Obl0",
+  "title": "Rule Britannia",
+  "author": "Carl Davis",
+  "thumbnail": "https://lh3.googleusercontent.com/ywc2vh2zvovYdGfusVoJHyQxgROgUX3nS2W7-kjiLSbE2IHxbU11C1gAPjQ5IP5b6ROZJVMpzPjO3MoV=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 21,
+      "lyrics": "When Britain first, at heaven's command"
+    },
+    {
+      "timestamp": 29,
+      "lyrics": "Arose from out the azure main"
+    },
+    {
+      "timestamp": 36,
+      "lyrics": "Arose, arose from out the azure main"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "This was the charter, the charter of the land"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "And guardian angels sang this strain"
+    },
+    {
+      "timestamp": 55,
+      "lyrics": "Rule Britania"
+    },
+    {
+      "timestamp": 58,
+      "lyrics": "Britannia rule the waves"
+    },
+    {
+      "timestamp": 61,
+      "lyrics": "Britons never, never will be slaves"
+    },
+    {
+      "timestamp": 67,
+      "lyrics": "Rule Britannia"
+    },
+    {
+      "timestamp": 69,
+      "lyrics": "Britannia rule the waves"
+    },
+    {
+      "timestamp": 73,
+      "lyrics": "Britons never, never will be slaves"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 83,
+      "lyrics": "Still more majestic shalt thou rise"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "More dreadful from each foreign stroke"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "More dreadful, dreadful from each foreign stroke"
+    },
+    {
+      "timestamp": 106,
+      "lyrics": "As the loud blast, the blast that tears the skies"
+    },
+    {
+      "timestamp": 112,
+      "lyrics": "Serves but to root thy native oak"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": "Rule Britannia"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "Britannia rule the waves"
+    },
+    {
+      "timestamp": 123,
+      "lyrics": "Britons never, never will be slaves"
+    },
+    {
+      "timestamp": 129,
+      "lyrics": "Rule Britannia"
+    },
+    {
+      "timestamp": 132,
+      "lyrics": "Britannia rule the waves"
+    },
+    {
+      "timestamp": 135,
+      "lyrics": "Britons never, never will be slaves"
+    },
+    {
+      "timestamp": 152,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "This song expresses Britain's pride in its naval power and its determination to maintain its independence and freedom. The lyrics evoke images of Britain's rise to prominence as a global maritime power, its resilience against foreign threats, and its unwavering spirit of liberty and self-governance. This song is a patriotic anthem that celebrates Britain's history and its enduring national identity rooted in maritime supremacy and national pride.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b975b827ea1797d35a44c"
+  },
+  "yt_id": "l_rbFhbcbT8",
+  "title": "Red Alert 3 Theme - Soviet March",
+  "author": "James Hannigan",
+  "thumbnail": "https://lh3.googleusercontent.com/kiZ2tz3V9a51npQwHmCMqv2IrfMTtAmpTiZvnvy0R1xSmaJJOWmYtQFwVRfz1kz-jPUZ6iQ8t4BnusWoWA=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 23,
+      "lyrics": "Наш Советский Союз покарает"
+    },
+    {
+      "timestamp": 27,
+      "lyrics": "Вес мир от Европы к Неве на восто-ок"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "Над Землёой везде будуть петь"
+    },
+    {
+      "timestamp": 35,
+      "lyrics": "Столица, водка, Советский медведь наш!"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "Наш Советский Союз покарает"
+    },
+    {
+      "timestamp": 43,
+      "lyrics": "Вес мир от Европы к Неве на восто-ок"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Над Землёой везде будуть петь"
+    },
+    {
+      "timestamp": 51,
+      "lyrics": "Столица, водка, Советский медведь наш!"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 62,
+      "lyrics": "Все народы здесь стояат того"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "Что мы все воплотили на свет"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Благодарный низкий поклон"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "От самой могуществернной в мире!"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "Все народы здесь стояат того"
+    },
+    {
+      "timestamp": 82,
+      "lyrics": "Что мы все воплотили на свет"
+    },
+    {
+      "timestamp": 86,
+      "lyrics": "Благодарный низкий поклон"
+    },
+    {
+      "timestamp": 90,
+      "lyrics": "От самой могуществернной в мире!"
+    },
+    {
+      "timestamp": 94,
+      "lyrics": "Ааааа, ааааа!"
+    },
+    {
+      "timestamp": 99,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 122,
+      "lyrics": "Наш Советский Союз покарает"
+    },
+    {
+      "timestamp": 125,
+      "lyrics": "Вес мир от Европы к Неве на восто-ок"
+    },
+    {
+      "timestamp": 129,
+      "lyrics": "Над Землёой везде будуть петь"
+    },
+    {
+      "timestamp": 133,
+      "lyrics": "Столица, водка, Советский медведь наш!"
+    },
+    {
+      "timestamp": 137,
+      "lyrics": "Наш Советский Союз покарает"
+    },
+    {
+      "timestamp": 141,
+      "lyrics": "Вес мир от Европы к Неве на восто-ок"
+    },
+    {
+      "timestamp": 145,
+      "lyrics": "Над Землёой везде будуть петь"
+    },
+    {
+      "timestamp": 149,
+      "lyrics": "Столица, водка, Советский медведь наш!"
+    },
+    {
+      "timestamp": 153,
+      "lyrics": "Ааааа, аААааааа!"
+    },
+    {
+      "timestamp": 156,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song lyrics express a sense of Soviet supremacy and pride. They proclaim that the Soviet Union will conquer the world, from Europe to the Neva River in the east. The lyrics celebrate the capital, vodka, and the Soviet bear as symbols of the nation's strength and dominance. The song ends with a low bow of gratitude for the world's recognition of the Soviet Union's power.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b97e3827ea1797d35a44d"
+  },
+  "yt_id": "8a0thYvYCNE",
+  "title": "The Last Stand",
+  "author": "Sabaton",
+  "thumbnail": "https://lh3.googleusercontent.com/0o-1fjPGDjG_JdvXlY43HGDhtbuyUJXRwKP0V3W3xc-12MENTWrR6eSIsg1W_-trznLDYFiFikzMmEg=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 24,
+      "lyrics": "In the heart of the Holy See"
+    },
+    {
+      "timestamp": 26,
+      "lyrics": "In the home of Christianity"
+    },
+    {
+      "timestamp": 28,
+      "lyrics": "The seat of power is in danger"
+    },
+    {
+      "timestamp": 32,
+      "lyrics": "There's a foe of a thousand swords"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "They've been abandoned by their lords"
+    },
+    {
+      "timestamp": 36,
+      "lyrics": "Their fall from grace will pave their path, to damnation"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "Then the one hundred eighty-nine"
+    },
+    {
+      "timestamp": 41,
+      "lyrics": "In the service of heaven"
+    },
+    {
+      "timestamp": 43,
+      "lyrics": "They're protecting the holy line"
+    },
+    {
+      "timestamp": 45,
+      "lyrics": "It was 1527"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Gave their lives on the steps to heaven"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "Thy will be done!"
+    },
+    {
+      "timestamp": 53,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 55,
+      "lyrics": "For the home of the holy"
+    },
+    {
+      "timestamp": 57,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 59,
+      "lyrics": "Gave their lives so boldly"
+    },
+    {
+      "timestamp": 61,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 62,
+      "lyrics": "In the name of his glory"
+    },
+    {
+      "timestamp": 64,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "Come and tell their story again"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Under guard of forty-two"
+    },
+    {
+      "timestamp": 72,
+      "lyrics": "Along a secret avenue"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "Castel Sant' Angelo is waiting"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "They're the guards of the Holy See"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "They're the guards of Christianity"
+    },
+    {
+      "timestamp": 81,
+      "lyrics": "Their path to history is paved with salvation"
+    },
+    {
+      "timestamp": 86,
+      "lyrics": "Then the one hundred eighty-nine"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "In the service of heaven"
+    },
+    {
+      "timestamp": 89,
+      "lyrics": "They're protecting the holy line"
+    },
+    {
+      "timestamp": 91,
+      "lyrics": "It was 1527"
+    },
+    {
+      "timestamp": 93,
+      "lyrics": "Gave their lives on the steps to heaven"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "Thy will be done!"
+    },
+    {
+      "timestamp": 99,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "For the home of the holy"
+    },
+    {
+      "timestamp": 102,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "Gave their lives so boldly"
+    },
+    {
+      "timestamp": 106,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "In the name of his glory"
+    },
+    {
+      "timestamp": 110,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 112,
+      "lyrics": "Come and tell their story again"
+    },
+    {
+      "timestamp": 136,
+      "lyrics": "Dying for salvation with dedication"
+    },
+    {
+      "timestamp": 138,
+      "lyrics": "No capitulation, annihilation"
+    },
+    {
+      "timestamp": 140,
+      "lyrics": "Papal commendation, reincarnation"
+    },
+    {
+      "timestamp": 142,
+      "lyrics": "Heaven is your destination"
+    },
+    {
+      "timestamp": 144,
+      "lyrics": "Dying for salvation with dedication"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "No capitulation, annihilation"
+    },
+    {
+      "timestamp": 148,
+      "lyrics": "Papal commendation, reincarnation"
+    },
+    {
+      "timestamp": 150,
+      "lyrics": "Heaven is your destination"
+    },
+    {
+      "timestamp": 152,
+      "lyrics": "In the name of God"
+    },
+    {
+      "timestamp": 156,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 157,
+      "lyrics": "For the home of the holy"
+    },
+    {
+      "timestamp": 159,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 161,
+      "lyrics": "Gave their lives so boldly"
+    },
+    {
+      "timestamp": 163,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 165,
+      "lyrics": "In the name of his glory"
+    },
+    {
+      "timestamp": 167,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 169,
+      "lyrics": "Come and tell their story"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "Gave their lives so boldly"
+    },
+    {
+      "timestamp": 173,
+      "lyrics": "Come and tell the Swiss Guards' story again"
+    },
+    {
+      "timestamp": 176,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "This song is a tribute to the Swiss Guards, an elite military force that has protected the Pope and Vatican City for centuries. The song highlights the Guards' bravery and devotion, particularly during the Sack of Rome in 1527, when they fought and died to defend the Vatican. The lyrics praise the Guards' unwavering commitment to their faith and their willingness to sacrifice their lives for the safety of the Pope and the Catholic Church.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b9808827ea1797d35a44e"
+  },
+  "yt_id": "2Cm48xg9_zY",
+  "title": "The Last Stand",
+  "author": "Sabaton",
+  "thumbnail": "https://lh3.googleusercontent.com/nYsip02RXLdVsbsi6vJTM5IuIaWUvg5wKNZaZy4eNXTiZlnD8IxhrXEvsPeA7xqGlRuqNHOqvTQ4SLMc=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 24,
+      "lyrics": "In the heart of the Holy See"
+    },
+    {
+      "timestamp": 26,
+      "lyrics": "In the home of Christianity"
+    },
+    {
+      "timestamp": 28,
+      "lyrics": "The seat of power is in danger"
+    },
+    {
+      "timestamp": 32,
+      "lyrics": "There's a foe of a thousand swords"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "They've been abandoned by their lords"
+    },
+    {
+      "timestamp": 36,
+      "lyrics": "Their fall from grace will pave their path, to damnation"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "Then the one hundred eighty-nine"
+    },
+    {
+      "timestamp": 41,
+      "lyrics": "In the service of heaven"
+    },
+    {
+      "timestamp": 43,
+      "lyrics": "They're protecting the holy line"
+    },
+    {
+      "timestamp": 45,
+      "lyrics": "It was 1527"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Gave their lives on the steps to heaven"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "Thy will be done!"
+    },
+    {
+      "timestamp": 53,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 55,
+      "lyrics": "For the home of the holy"
+    },
+    {
+      "timestamp": 57,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 59,
+      "lyrics": "Gave their lives so boldly"
+    },
+    {
+      "timestamp": 61,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 62,
+      "lyrics": "In the name of his glory"
+    },
+    {
+      "timestamp": 64,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "Come and tell their story again"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Under guard of forty-two"
+    },
+    {
+      "timestamp": 72,
+      "lyrics": "Along a secret avenue"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "Castel Sant' Angelo is waiting"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "They're the guards of the Holy See"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "They're the guards of Christianity"
+    },
+    {
+      "timestamp": 81,
+      "lyrics": "Their path to history is paved with salvation"
+    },
+    {
+      "timestamp": 86,
+      "lyrics": "Then the one hundred eighty-nine"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "In the service of heaven"
+    },
+    {
+      "timestamp": 89,
+      "lyrics": "They're protecting the holy line"
+    },
+    {
+      "timestamp": 91,
+      "lyrics": "It was 1527"
+    },
+    {
+      "timestamp": 93,
+      "lyrics": "Gave their lives on the steps to heaven"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "Thy will be done!"
+    },
+    {
+      "timestamp": 99,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "For the home of the holy"
+    },
+    {
+      "timestamp": 102,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "Gave their lives so boldly"
+    },
+    {
+      "timestamp": 106,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "In the name of his glory"
+    },
+    {
+      "timestamp": 110,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 112,
+      "lyrics": "Come and tell their story again"
+    },
+    {
+      "timestamp": 136,
+      "lyrics": "Dying for salvation with dedication"
+    },
+    {
+      "timestamp": 138,
+      "lyrics": "No capitulation, annihilation"
+    },
+    {
+      "timestamp": 140,
+      "lyrics": "Papal commendation, reincarnation"
+    },
+    {
+      "timestamp": 142,
+      "lyrics": "Heaven is your destination"
+    },
+    {
+      "timestamp": 144,
+      "lyrics": "Dying for salvation with dedication"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "No capitulation, annihilation"
+    },
+    {
+      "timestamp": 148,
+      "lyrics": "Papal commendation, reincarnation"
+    },
+    {
+      "timestamp": 150,
+      "lyrics": "Heaven is your destination"
+    },
+    {
+      "timestamp": 152,
+      "lyrics": "In the name of God"
+    },
+    {
+      "timestamp": 156,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 157,
+      "lyrics": "For the home of the holy"
+    },
+    {
+      "timestamp": 159,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 161,
+      "lyrics": "Gave their lives so boldly"
+    },
+    {
+      "timestamp": 163,
+      "lyrics": "For the grace, for the might of our lord"
+    },
+    {
+      "timestamp": 165,
+      "lyrics": "In the name of his glory"
+    },
+    {
+      "timestamp": 167,
+      "lyrics": "For the faith, for the way of the sword"
+    },
+    {
+      "timestamp": 169,
+      "lyrics": "Come and tell their story"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "Gave their lives so boldly"
+    },
+    {
+      "timestamp": 173,
+      "lyrics": "Come and tell the Swiss Guards' story again"
+    },
+    {
+      "timestamp": 176,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The lyrics depict the heroic defense of the Swiss Guards, who protected the Vatican from invading forces in 1527. Despite being outnumbered, they valiantly fought and sacrificed their lives to defend the Holy See. Their unwavering dedication to their faith and the protection of the sacred ground earned them eternal praise and recognition as the guardians of Christianity.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b9833827ea1797d35a44f"
+  },
+  "yt_id": "SoHGDQrhChA",
+  "title": "Keelhauled",
+  "author": "Alestorm",
+  "thumbnail": "https://lh3.googleusercontent.com/asBBXr9N-mrgahQeMfbmF_vpXbkjgh9-Un7lQJLl8diES2rxijLk8Msiv5pN8_tuhoq725sJhrDeXpQdwg=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 43,
+      "lyrics": "My friends, I stand before you"
+    },
+    {
+      "timestamp": 45,
+      "lyrics": "To tell a truth most dire"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "There lurks a traitor in our midsts"
+    },
+    {
+      "timestamp": 50,
+      "lyrics": "Who hath invoked the captain's ire"
+    },
+    {
+      "timestamp": 52,
+      "lyrics": "He don't deserve no mercy"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "We ought to shoot him with a gun"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": "But I am not an evil man"
+    },
+    {
+      "timestamp": 59,
+      "lyrics": "So first let's have a little fun"
+    },
+    {
+      "timestamp": 61,
+      "lyrics": "We'll tie that scoundrel to a rope"
+    },
+    {
+      "timestamp": 63,
+      "lyrics": "And throw him overboard"
+    },
+    {
+      "timestamp": 65,
+      "lyrics": "Drag him underneath the ship"
+    },
+    {
+      "timestamp": 67,
+      "lyrics": "A terrifying, deadly trip"
+    },
+    {
+      "timestamp": 72,
+      "lyrics": "Keelhaul that filthy landlubber"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "Send him down to the depths below"
+    },
+    {
+      "timestamp": 76,
+      "lyrics": "Make that bastard walk the plank"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "With a bottle of rum and a yo ho ho"
+    },
+    {
+      "timestamp": 81,
+      "lyrics": "Keelhaul that filthy landlubber"
+    },
+    {
+      "timestamp": 83,
+      "lyrics": "Send him down to the depths below"
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "Make that bastard walk the plank"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "With a bottle of rum and a yo ho ho"
+    },
+    {
+      "timestamp": 91,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 107,
+      "lyrics": "I will not say what he has done"
+    },
+    {
+      "timestamp": 109,
+      "lyrics": "His sins are far too grave to tell"
+    },
+    {
+      "timestamp": 111,
+      "lyrics": "It's not my place to judge a man"
+    },
+    {
+      "timestamp": 113,
+      "lyrics": "But for them he will burn in hell"
+    },
+    {
+      "timestamp": 115,
+      "lyrics": "The sharks will dine upon his flesh"
+    },
+    {
+      "timestamp": 117,
+      "lyrics": "And Davy Jones will have his soul"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "Take his money and his hat"
+    },
+    {
+      "timestamp": 122,
+      "lyrics": "He won't need them where he's gonna go"
+    },
+    {
+      "timestamp": 124,
+      "lyrics": "But first let's tie him to a rope"
+    },
+    {
+      "timestamp": 126,
+      "lyrics": "And throw him overboard"
+    },
+    {
+      "timestamp": 128,
+      "lyrics": "Drag him underneath the ship"
+    },
+    {
+      "timestamp": 130,
+      "lyrics": "A terrifying, deadly trip"
+    },
+    {
+      "timestamp": 135,
+      "lyrics": "Keelhaul that filthy landlubber"
+    },
+    {
+      "timestamp": 137,
+      "lyrics": "Send him down to the depths below"
+    },
+    {
+      "timestamp": 139,
+      "lyrics": "Make that bastard walk the plank"
+    },
+    {
+      "timestamp": 141,
+      "lyrics": "With a bottle of rum and a yo ho ho"
+    },
+    {
+      "timestamp": 144,
+      "lyrics": "Keelhaul that filthy landlubber"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "Send him down to the depths below"
+    },
+    {
+      "timestamp": 148,
+      "lyrics": "Make that bastard walk the plank"
+    },
+    {
+      "timestamp": 150,
+      "lyrics": "With a bottle of rum and a yo ho ho"
+    },
+    {
+      "timestamp": 154,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 187,
+      "lyrics": "We'll tie that scoundrel to a rope"
+    },
+    {
+      "timestamp": 189,
+      "lyrics": "And throw him overboard"
+    },
+    {
+      "timestamp": 192,
+      "lyrics": "Drag him underneath the ship"
+    },
+    {
+      "timestamp": 194,
+      "lyrics": "A terrifying deadly trip"
+    },
+    {
+      "timestamp": 201,
+      "lyrics": "Keelhaul that filthy landlubber"
+    },
+    {
+      "timestamp": 203,
+      "lyrics": "Send him down to the depths below"
+    },
+    {
+      "timestamp": 205,
+      "lyrics": "Make that bastard walk the plank"
+    },
+    {
+      "timestamp": 207,
+      "lyrics": "With a bottle of rum and a yo ho ho"
+    },
+    {
+      "timestamp": 209,
+      "lyrics": "Keelhaul that filthy landlubber"
+    },
+    {
+      "timestamp": 211,
+      "lyrics": "Send him down to the depths below"
+    },
+    {
+      "timestamp": 214,
+      "lyrics": "Make that bastard walk the plank"
+    },
+    {
+      "timestamp": 216,
+      "lyrics": "With a bottle of rum and a yo ho ho"
+    },
+    {
+      "timestamp": 218,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song advocates for the execution of a traitor who has angered the captain. While acknowledging the traitor's wrongdoings as severe, the narrator suggests he be subjected to gruesome punishments such as keelhauling (dragging underwater) and walking the plank, accompanied by rum and a jovial \"yo ho ho.\" This suggests that the narrator and his companions are not only seeking justice but also deriving pleasure from the traitor's suffering, highlighting the brutal and unforgiving nature of life at sea.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661b9951827ea1797d35a450"
+  },
+  "yt_id": "hOAa1ZFPE3o",
+  "title": "Maria Love",
+  "author": "Rick Astley",
+  "thumbnail": "https://lh3.googleusercontent.com/pdBUJVrn_g0acQ-YnRi_EH-iNCNwYZZeePdzkT2KQ50RjhACWLD8P7cpAOpN-tVMvMpy3RIjv7jp7eFi_A=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 16,
+      "lyrics": "Well, it was 1969, the streets were on fire"
+    },
+    {
+      "timestamp": 23,
+      "lyrics": "But only in black and white"
+    },
+    {
+      "timestamp": 26,
+      "lyrics": "And I was only a boy, but I saw them crucify"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "Oh, what an awful sight"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "And it looked like a holy war"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "Is anybody keeping score?"
+    },
+    {
+      "timestamp": 45,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 51,
+      "lyrics": "Love is needed, can anybody see it?"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 60,
+      "lyrics": "Why, we wait and hesitate"
+    },
+    {
+      "timestamp": 63,
+      "lyrics": "Well, some stayed in bed for peace"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "And some took giant leaps"
+    },
+    {
+      "timestamp": 68,
+      "lyrics": "A foreigner friend played on a rooftop"
+    },
+    {
+      "timestamp": 72,
+      "lyrics": "All the science in the world couldn't save us from ourselves"
+    },
+    {
+      "timestamp": 78,
+      "lyrics": "Oh, Lord, when will it ever stop?"
+    },
+    {
+      "timestamp": 81,
+      "lyrics": "'Cause it looked like a holy war"
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "Oh, and no one was keeping score"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "Love is needed, can anybody see it?"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 107,
+      "lyrics": "Why, we wait and hesitate"
+    },
+    {
+      "timestamp": 110,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "Flowers can grow through cement"
+    },
+    {
+      "timestamp": 125,
+      "lyrics": "Great oaks and river's bend"
+    },
+    {
+      "timestamp": 128,
+      "lyrics": "Power to the people, it's not pretend"
+    },
+    {
+      "timestamp": 134,
+      "lyrics": "When will the madness end?"
+    },
+    {
+      "timestamp": 136,
+      "lyrics": "Well, it looks like a holy war"
+    },
+    {
+      "timestamp": 141,
+      "lyrics": "Is anybody keeping score?"
+    },
+    {
+      "timestamp": 148,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 154,
+      "lyrics": "Love is needed, can anybody see it?"
+    },
+    {
+      "timestamp": 156,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 162,
+      "lyrics": "Why, we wait and hesitate"
+    },
+    {
+      "timestamp": 165,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "Know what's needed, can anybody see it?"
+    },
+    {
+      "timestamp": 174,
+      "lyrics": "Maria Love"
+    },
+    {
+      "timestamp": 184,
+      "lyrics": "Maria Love, ma, ma, ma, Maria"
+    },
+    {
+      "timestamp": 189,
+      "lyrics": "Maria Love, ma, ma, ma, Maria"
+    },
+    {
+      "timestamp": 193,
+      "lyrics": "Maria Love, ma, ma, ma, Maria"
+    },
+    {
+      "timestamp": 197,
+      "lyrics": "Maria Love, ma, ma, ma, Maria"
+    },
+    {
+      "timestamp": 202,
+      "lyrics": "Maria Love, ma, ma, ma, Maria"
+    },
+    {
+      "timestamp": 206,
+      "lyrics": "Maria Love, ma, ma, ma, Maria"
+    },
+    {
+      "timestamp": 214,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song critiques the violence and social unrest of the 1960s, particularly the Vietnam War and the Civil Rights Movement. It draws parallels between these events and religious wars, emphasizing the destructive nature of hatred and hostility. The lyrics call for love and understanding as a way to overcome division and violence, urging people to recognize their shared humanity amidst the chaos.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661ba044827ea1797d35a451"
+  },
+  "yt_id": "CIXchfB_sVc",
+  "title": "Christ & Combat",
+  "author": "Powerwolf",
+  "thumbnail": "https://lh3.googleusercontent.com/elDoubrpgs_KcmCE7BX9KBMYUoPEHQojpIuIibWsEbgZeCjtt3gtwXFdx_HER4_hd3iBPwQMR7g5eCM=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 0,
+      "lyrics": "Say will you stand up for Christ and combat?"
+    },
+    {
+      "timestamp": 4,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 19,
+      "lyrics": "Ride, defend the kingdom of God"
+    },
+    {
+      "timestamp": 22,
+      "lyrics": "Alive in the conquest of Normans"
+    },
+    {
+      "timestamp": 25,
+      "lyrics": "Crossed the land to Byzantine shores"
+    },
+    {
+      "timestamp": 28,
+      "lyrics": "We storm Constantinople's wall"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "Gone ahead, the army went on"
+    },
+    {
+      "timestamp": 34,
+      "lyrics": "Arrived at the river of Jordan"
+    },
+    {
+      "timestamp": 37,
+      "lyrics": "Brave the dread, Jerusalem's sons"
+    },
+    {
+      "timestamp": 40,
+      "lyrics": "And one-by-one the pilgrims fall"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "And by the city of Siron"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Their bodies lying to rot"
+    },
+    {
+      "timestamp": 50,
+      "lyrics": "And underneath blood and iron"
+    },
+    {
+      "timestamp": 52,
+      "lyrics": "Lies the promise and honour of God"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": "Say will you stand up for Christ and combat?"
+    },
+    {
+      "timestamp": 59,
+      "lyrics": "Will you fight like a rebel, a rebel in black?"
+    },
+    {
+      "timestamp": 62,
+      "lyrics": "Say will you stand up for Christ and combat?"
+    },
+    {
+      "timestamp": 65,
+      "lyrics": "Will you sanctify the dark?"
+    },
+    {
+      "timestamp": 69,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 83,
+      "lyrics": "Kill and pray, crusaders at heart"
+    },
+    {
+      "timestamp": 86,
+      "lyrics": "In 1097 we started"
+    },
+    {
+      "timestamp": 89,
+      "lyrics": "Lost the way and spread all apart"
+    },
+    {
+      "timestamp": 92,
+      "lyrics": "The Holy Roman Empire"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "The remaining knights prepared for attack"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "To honour the prophet departed"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "On they fought with no turning back"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "The kingdom rise forever more"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "And by the city of Siron"
+    },
+    {
+      "timestamp": 111,
+      "lyrics": "Their bodies lying to rot"
+    },
+    {
+      "timestamp": 114,
+      "lyrics": "And underneath blood and iron"
+    },
+    {
+      "timestamp": 117,
+      "lyrics": "Lies the promise and honour of God"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "Go straight to heaven for Christ and combat"
+    },
+    {
+      "timestamp": 123,
+      "lyrics": "Give your life for the sanctum that you never had"
+    },
+    {
+      "timestamp": 127,
+      "lyrics": "Take place in heaven for Christ and combat"
+    },
+    {
+      "timestamp": 129,
+      "lyrics": "Gone to sanctify the dark"
+    },
+    {
+      "timestamp": 136,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 167,
+      "lyrics": "Christ, Christ and combat"
+    },
+    {
+      "timestamp": 169,
+      "lyrics": "Christ and combat"
+    },
+    {
+      "timestamp": 171,
+      "lyrics": "Christ and in heaven we are"
+    },
+    {
+      "timestamp": 173,
+      "lyrics": "Christ, Christ and combat"
+    },
+    {
+      "timestamp": 175,
+      "lyrics": "Christ and combat"
+    },
+    {
+      "timestamp": 177,
+      "lyrics": "Christ and in heaven we are"
+    },
+    {
+      "timestamp": 179,
+      "lyrics": "Christ, Christ and combat"
+    },
+    {
+      "timestamp": 181,
+      "lyrics": "Christ and combat"
+    },
+    {
+      "timestamp": 183,
+      "lyrics": "Christ and in heaven we are"
+    },
+    {
+      "timestamp": 185,
+      "lyrics": "Christ, Christ and combat"
+    },
+    {
+      "timestamp": 187,
+      "lyrics": "Christ and combat"
+    },
+    {
+      "timestamp": 189,
+      "lyrics": "Christ and combat"
+    },
+    {
+      "timestamp": 195,
+      "lyrics": "Ten thousand men died for Christ and combat"
+    },
+    {
+      "timestamp": 198,
+      "lyrics": "Gone as mighty crusaders and never came back"
+    },
+    {
+      "timestamp": 201,
+      "lyrics": "Ascend to heaven for Christ and combat"
+    },
+    {
+      "timestamp": 204,
+      "lyrics": "In remembrance of the dark"
+    },
+    {
+      "timestamp": 209,
+      "lyrics": "Say will you stand up for Christ and combat?"
+    },
+    {
+      "timestamp": 211,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song portrays the gruesome reality of the Crusades, questioning the faith and motivations of the crusaders. Despite their initial quest for the Holy Land, they become lost and divided, with many dying in battle. The lyrics emphasize the irony of seeking heaven through violence and the ultimate futility of war. The refrain, \"Christ and combat,\" juxtaposes the supposed Christian ideals of the crusaders with their brutal actions.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661ba154827ea1797d35a452"
+  },
+  "yt_id": "_nnA-IBH8c8",
+  "title": "The Fine Print",
+  "author": "The Stupendium",
+  "thumbnail": "https://lh3.googleusercontent.com/Z0wMFlKf9mTm-LPmCrbag4IzZO-iBKvzIewjEsjPq7mSq6SF_BYQw_lU1cOFFPvHuzmxtykHvrj7MLxQ-g=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 21,
+      "lyrics": "Welcome to space, what were you expecting?"
+    },
+    {
+      "timestamp": 25,
+      "lyrics": "It's a dangerous place, thank you for investing"
+    },
+    {
+      "timestamp": 30,
+      "lyrics": "Go there for your rota, there for your orders"
+    },
+    {
+      "timestamp": 33,
+      "lyrics": "Fill up these quotas, we'll bill for your quarters"
+    },
+    {
+      "timestamp": 36,
+      "lyrics": "Report to your foreman but watch for marauders"
+    },
+    {
+      "timestamp": 38,
+      "lyrics": "'Cause if you get eaten, there's fees for your mourners"
+    },
+    {
+      "timestamp": 41,
+      "lyrics": "Prosperity's there in the care of magnates"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "In Halcyon, heaven awaits"
+    },
+    {
+      "timestamp": 46,
+      "lyrics": "Did you think it was supposed to look like the poster?"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "It mostly does, oh, if you'd only read closer"
+    },
+    {
+      "timestamp": 52,
+      "lyrics": "Just ten short years to a new frontier"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "Snooze as you cruise and you'll wake up here"
+    },
+    {
+      "timestamp": 57,
+      "lyrics": "You've been trapped in that ship for an awful long time"
+    },
+    {
+      "timestamp": 60,
+      "lyrics": "So perhaps you have simply forgot what you signed"
+    },
+    {
+      "timestamp": 63,
+      "lyrics": "Oh, honestly, did you not read the colony policy"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "That defines you as company property?"
+    },
+    {
+      "timestamp": 69,
+      "lyrics": "That waivers your say in autonomy?"
+    },
+    {
+      "timestamp": 71,
+      "lyrics": "The conglomerate's got you in lock and key"
+    },
+    {
+      "timestamp": 74,
+      "lyrics": "We put the \"dollar\" back into \"idolatry\""
+    },
+    {
+      "timestamp": 77,
+      "lyrics": "If you're upset, you can rent an apology"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "We are a family forged in bureaucracy"
+    },
+    {
+      "timestamp": 82,
+      "lyrics": "No \"I\" in \"team\" but there's \"con\" in \"economy\""
+    },
+    {
+      "timestamp": 85,
+      "lyrics": "Were you expecting adventure? Were you hoping for fun?"
+    },
+    {
+      "timestamp": 89,
+      "lyrics": "My friend, you're indentured"
+    },
+    {
+      "timestamp": 91,
+      "lyrics": "And pleasure's exempt from your tenure"
+    },
+    {
+      "timestamp": 93,
+      "lyrics": "So venture back down to your slum"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "That's provided at generous prices"
+    },
+    {
+      "timestamp": 97,
+      "lyrics": "Your worth is determined by your sacrifices"
+    },
+    {
+      "timestamp": 99,
+      "lyrics": "A small term of service when down on the surface"
+    },
+    {
+      "timestamp": 102,
+      "lyrics": "Internment's a freebie that comes with the purchase"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "We work to earn the right to work"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "To earn the right to work"
+    },
+    {
+      "timestamp": 111,
+      "lyrics": "To earn the right to work"
+    },
+    {
+      "timestamp": 114,
+      "lyrics": "To earn the right to work"
+    },
+    {
+      "timestamp": 116,
+      "lyrics": "To earn the right to give"
+    },
+    {
+      "timestamp": 119,
+      "lyrics": "Ourselves the right to buy"
+    },
+    {
+      "timestamp": 122,
+      "lyrics": "Ourselves the right to live"
+    },
+    {
+      "timestamp": 124,
+      "lyrics": "To earn the right to die"
+    },
+    {
+      "timestamp": 126,
+      "lyrics": "Welcome to our little town, why don't you settle down?"
+    },
+    {
+      "timestamp": 129,
+      "lyrics": "Here, just fill out the paperwork and you can look around"
+    },
+    {
+      "timestamp": 132,
+      "lyrics": "We're happy as can be inside the valley cannery"
+    },
+    {
+      "timestamp": 134,
+      "lyrics": "We live to pack the cans of meat"
+    },
+    {
+      "timestamp": 135,
+      "lyrics": "And not to question where it's found"
+    },
+    {
+      "timestamp": 137,
+      "lyrics": "Until we end up in the ground, around the corner in the yard"
+    },
+    {
+      "timestamp": 139,
+      "lyrics": "You know, we thought we liked the sound of finding glory in the stars"
+    },
+    {
+      "timestamp": 142,
+      "lyrics": "The board has taught us to be proud of never reaching very far"
+    },
+    {
+      "timestamp": 145,
+      "lyrics": "So we earn what we're allowed and give it right back at the bar"
+    },
+    {
+      "timestamp": 147,
+      "lyrics": "The ale to cure what ails ya"
+    },
+    {
+      "timestamp": 150,
+      "lyrics": "Zero Gee Brew, your favourite flavour"
+    },
+    {
+      "timestamp": 152,
+      "lyrics": "So work 'til you bleed, ennobled by labour"
+    },
+    {
+      "timestamp": 155,
+      "lyrics": "Then purchase relief from your local retailer"
+    },
+    {
+      "timestamp": 157,
+      "lyrics": "If you'd rather drop dead, that's fine"
+    },
+    {
+      "timestamp": 159,
+      "lyrics": "But you know that dropping down dead bears a fine"
+    },
+    {
+      "timestamp": 162,
+      "lyrics": "So you do your job and I'll do mine"
+    },
+    {
+      "timestamp": 164,
+      "lyrics": "I gotta meet a six-foot deep bottom line"
+    },
+    {
+      "timestamp": 167,
+      "lyrics": "We make a fortune for the board"
+    },
+    {
+      "timestamp": 168,
+      "lyrics": "By selling boredom door to door"
+    },
+    {
+      "timestamp": 170,
+      "lyrics": "Because it's all that we deserve, and it is all we can afford"
+    },
+    {
+      "timestamp": 173,
+      "lyrics": "The secrets of the universe and all the worlds to be explored"
+    },
+    {
+      "timestamp": 175,
+      "lyrics": "But our dreams are back on Earth and now the work is our reward"
+    },
+    {
+      "timestamp": 178,
+      "lyrics": "And you'll be grateful for seats at the table"
+    },
+    {
+      "timestamp": 181,
+      "lyrics": "Though it dips at one end and the bench is unstable"
+    },
+    {
+      "timestamp": 183,
+      "lyrics": "You may waste your days, but at least you were able"
+    },
+    {
+      "timestamp": 186,
+      "lyrics": "To pay off your grave since we leased you your cradle"
+    },
+    {
+      "timestamp": 188,
+      "lyrics": "Be faithful and pray, we'll repay what you invest"
+    },
+    {
+      "timestamp": 191,
+      "lyrics": "Behave as you slave for humanity's interest"
+    },
+    {
+      "timestamp": 194,
+      "lyrics": "On account that you're all on account"
+    },
+    {
+      "timestamp": 196,
+      "lyrics": "And we're quickly amounting humanity's interest"
+    },
+    {
+      "timestamp": 199,
+      "lyrics": "You'd think that we'd sink to the brink of rebellion"
+    },
+    {
+      "timestamp": 202,
+      "lyrics": "With markets dependent on peddling weapons"
+    },
+    {
+      "timestamp": 204,
+      "lyrics": "The architect tells them the secret to heaven"
+    },
+    {
+      "timestamp": 207,
+      "lyrics": "Is simply consuming whatever we sell them"
+    },
+    {
+      "timestamp": 210,
+      "lyrics": "We work to earn the right to work"
+    },
+    {
+      "timestamp": 214,
+      "lyrics": "To earn the right to work"
+    },
+    {
+      "timestamp": 217,
+      "lyrics": "To earn the right to work"
+    },
+    {
+      "timestamp": 219,
+      "lyrics": "To earn the right to work"
+    },
+    {
+      "timestamp": 222,
+      "lyrics": "To earn the right to give ourselves the right to buy"
+    },
+    {
+      "timestamp": 227,
+      "lyrics": "Ourselves the right to live to earn the right to die"
+    },
+    {
+      "timestamp": 232,
+      "lyrics": "You should have read the fine print, my friend"
+    },
+    {
+      "timestamp": 235,
+      "lyrics": "Should have read the fine print"
+    },
+    {
+      "timestamp": 237,
+      "lyrics": "You should have read the fine print, my friend"
+    },
+    {
+      "timestamp": 240,
+      "lyrics": "Should have read the fine print"
+    },
+    {
+      "timestamp": 242,
+      "lyrics": "Welcome to our little town, why don't you settle down?"
+    },
+    {
+      "timestamp": 245,
+      "lyrics": "Here, just fill out the paperwork and you can look around"
+    },
+    {
+      "timestamp": 248,
+      "lyrics": "We work and then we work"
+    },
+    {
+      "timestamp": 249,
+      "lyrics": "And then we work and then we work"
+    },
+    {
+      "timestamp": 250,
+      "lyrics": "And then we work and then we work"
+    },
+    {
+      "timestamp": 251,
+      "lyrics": "And then we end up in the ground"
+    },
+    {
+      "timestamp": 253,
+      "lyrics": "Work, work, hurry, hurry"
+    },
+    {
+      "timestamp": 254,
+      "lyrics": "Work, work, worry, worry"
+    },
+    {
+      "timestamp": 256,
+      "lyrics": "Work, work, hurry, hurry"
+    },
+    {
+      "timestamp": 257,
+      "lyrics": "Worry, hurry, work, work"
+    },
+    {
+      "timestamp": 258,
+      "lyrics": "You should have read the fine print, my friend"
+    },
+    {
+      "timestamp": 261,
+      "lyrics": "Should have read the fine print"
+    },
+    {
+      "timestamp": 264,
+      "lyrics": "Here and here, and initial here"
+    },
+    {
+      "timestamp": 271,
+      "lyrics": "Welcome to the family"
+    },
+    {
+      "timestamp": 272,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The lyrics depict the harsh realities and exploitation faced by individuals in a dystopian corporate-controlled space colony, where workers are bound by contracts that grant companies absolute authority over their lives. The colony promises prosperity but delivers only indentured service and ruthless profit-seeking, leaving workers disillusioned and trapped in a cycle of debt and labor. The song serves as a critique of unchecked capitalism and its oppressive consequences on individuals and society.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661ba1cd827ea1797d35a453"
+  },
+  "yt_id": "tdlq_dDtSqw",
+  "title": "The Data Stream (feat. Cami-Cat)",
+  "author": "The Stupendium",
+  "thumbnail": "https://lh3.googleusercontent.com/HcQ9CApgEsmsURqzWcPZQTISljD8o4iuEqRVO1lbYeHZDgHmY4D_sgJXYI7zSc54mDkwy3Ti34XN5bxG-Q=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 25,
+      "lyrics": "Eventually, all walls meet demolition"
+    },
+    {
+      "timestamp": 27,
+      "lyrics": "So Wall Street had to keep the tradition"
+    },
+    {
+      "timestamp": 29,
+      "lyrics": "Their financial systems resigned to ignition"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "And out of the ashes, we have arisen"
+    },
+    {
+      "timestamp": 33,
+      "lyrics": "An empire is forged in the fire of ambition"
+    },
+    {
+      "timestamp": 35,
+      "lyrics": "In business, there isn't the time for attrition"
+    },
+    {
+      "timestamp": 37,
+      "lyrics": "Invest to suppress then ingest competition"
+    },
+    {
+      "timestamp": 39,
+      "lyrics": "Then each acquisition is new ammunition"
+    },
+    {
+      "timestamp": 41,
+      "lyrics": "When governments crumble and fall to the floor"
+    },
+    {
+      "timestamp": 44,
+      "lyrics": "That was paved with the graves of a corporate war"
+    },
+    {
+      "timestamp": 46,
+      "lyrics": "A fundament funded in blood just to shore"
+    },
+    {
+      "timestamp": 48,
+      "lyrics": "A foundation for founding our covenant"
+    },
+    {
+      "timestamp": 49,
+      "lyrics": "Born of a need for control of societal entropy"
+    },
+    {
+      "timestamp": 52,
+      "lyrics": "Enterprise at the price of your indemnity"
+    },
+    {
+      "timestamp": 54,
+      "lyrics": "Chart out the course and of course you were meant to be"
+    },
+    {
+      "timestamp": 56,
+      "lyrics": "Bent to the will of a corporate entity"
+    },
+    {
+      "timestamp": 59,
+      "lyrics": "Arasaka Security. You're in safe hands"
+    },
+    {
+      "timestamp": 66,
+      "lyrics": "We're the light in your screens, we're the lead in your veins"
+    },
+    {
+      "timestamp": 70,
+      "lyrics": "Then you wake from your dreams, so we can sell them again"
+    },
+    {
+      "timestamp": 75,
+      "lyrics": "In the light we distract with the shiny and new"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "So you're blind to the fact that the product is you"
+    },
+    {
+      "timestamp": 82,
+      "lyrics": "So let your brain dance and replay the dream"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "But don't drown in the data stream"
+    },
+    {
+      "timestamp": 91,
+      "lyrics": "'Cause we see where you are and we see where you go"
+    },
+    {
+      "timestamp": 95,
+      "lyrics": "'Cause we know what you own and we own what you know"
+    },
+    {
+      "timestamp": 100,
+      "lyrics": "From the top of all our towers, the corridors of power clearly need rewiring"
+    },
+    {
+      "timestamp": 104,
+      "lyrics": "Arasaka saw the spark and then embarked upon the path to turn that spark to lightning"
+    },
+    {
+      "timestamp": 108,
+      "lyrics": "There's no autonomous megalopolis so populous or prosperous you could reside in"
+    },
+    {
+      "timestamp": 112,
+      "lyrics": "And every citizen that's living in this city is a digit on the charts we're climbing"
+    },
+    {
+      "timestamp": 117,
+      "lyrics": "Political systems are too inefficient"
+    },
+    {
+      "timestamp": 118,
+      "lyrics": "They split like the atom and burned in the fission"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "Now every department and every decision"
+    },
+    {
+      "timestamp": 123,
+      "lyrics": "Defer to the herds of our corporate divisions"
+    },
+    {
+      "timestamp": 125,
+      "lyrics": "If you don't remember the ballot you cast"
+    },
+    {
+      "timestamp": 127,
+      "lyrics": "It's printed on every receipt you were passed"
+    },
+    {
+      "timestamp": 129,
+      "lyrics": "Each time you selected our products and services"
+    },
+    {
+      "timestamp": 131,
+      "lyrics": "We were elected in each of your purchases"
+    },
+    {
+      "timestamp": 134,
+      "lyrics": "What's left to do when you've got the monopoly?"
+    },
+    {
+      "timestamp": 135,
+      "lyrics": "Turn the consumer into the commodity"
+    },
+    {
+      "timestamp": 137,
+      "lyrics": "It isn't hard where you've hardware neurology"
+    },
+    {
+      "timestamp": 139,
+      "lyrics": "Honestly, do read the company policy"
+    },
+    {
+      "timestamp": 142,
+      "lyrics": "Take information and trade it for wealth"
+    },
+    {
+      "timestamp": 144,
+      "lyrics": "You pay it in each augmentation we sell"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "It's easy to cut out the middleman"
+    },
+    {
+      "timestamp": 148,
+      "lyrics": "When he's cut out most of himself"
+    },
+    {
+      "timestamp": 150,
+      "lyrics": "Arasaka Finance. Investing in your future"
+    },
+    {
+      "timestamp": 156,
+      "lyrics": ""
+    },
+    {
+      "timestamp": 158,
+      "lyrics": "We're the light in your screens, we're the lead in your veins"
+    },
+    {
+      "timestamp": 162,
+      "lyrics": "Then you wake from your dreams, so we can sell them again"
+    },
+    {
+      "timestamp": 166,
+      "lyrics": "In the light we distract with the shiny and new"
+    },
+    {
+      "timestamp": 170,
+      "lyrics": "So you're blind to the fact that the product is you"
+    },
+    {
+      "timestamp": 174,
+      "lyrics": "So let your brain dance and replay the dream"
+    },
+    {
+      "timestamp": 179,
+      "lyrics": "But don't drown in the data stream"
+    },
+    {
+      "timestamp": 183,
+      "lyrics": "'Cause we see where you are and we see where you go"
+    },
+    {
+      "timestamp": 187,
+      "lyrics": "'Cause we know what you own and we own what you know"
+    },
+    {
+      "timestamp": 192,
+      "lyrics": "All that you say on the net we composite"
+    },
+    {
+      "timestamp": 194,
+      "lyrics": "To maps that go straight from your head to your pocket"
+    },
+    {
+      "timestamp": 195,
+      "lyrics": "Complain if you want, you're still making deposits"
+    },
+    {
+      "timestamp": 198,
+      "lyrics": "Of data — each day you log on is a profit"
+    },
+    {
+      "timestamp": 200,
+      "lyrics": "Society currently lists electronic"
+    },
+    {
+      "timestamp": 202,
+      "lyrics": "So isn't conducting resistance ironic?"
+    },
+    {
+      "timestamp": 204,
+      "lyrics": "We've plenty of skeletons locked in our closets"
+    },
+    {
+      "timestamp": 206,
+      "lyrics": "But yours are assembled from old-stock hydraulics"
+    },
+    {
+      "timestamp": 208,
+      "lyrics": "So lucky we know just the pieces you need"
+    },
+    {
+      "timestamp": 210,
+      "lyrics": "All plucked from your social media feeds"
+    },
+    {
+      "timestamp": 213,
+      "lyrics": "The places you go and the posts that you read"
+    },
+    {
+      "timestamp": 215,
+      "lyrics": "All snatched for a new algorithm to feed"
+    },
+    {
+      "timestamp": 217,
+      "lyrics": "Now, holding our gold isn't par for the brand"
+    },
+    {
+      "timestamp": 219,
+      "lyrics": "Our silver is sat in the palm of your hand"
+    },
+    {
+      "timestamp": 221,
+      "lyrics": "Quit whining and sign on the line in the sand"
+    },
+    {
+      "timestamp": 223,
+      "lyrics": "The supply does not get to make the demands"
+    },
+    {
+      "timestamp": 226,
+      "lyrics": "Arasaka Manufacturing. Building a better tomorrow"
+    },
+    {
+      "timestamp": 233,
+      "lyrics": "Name, age, qualifications"
+    },
+    {
+      "timestamp": 235,
+      "lyrics": "Race, faith, career aspirations"
+    },
+    {
+      "timestamp": 238,
+      "lyrics": "Political leaning, daily commute"
+    },
+    {
+      "timestamp": 240,
+      "lyrics": "Marital status, favourite fruit"
+    },
+    {
+      "timestamp": 241,
+      "lyrics": "Family, browser, medical history"
+    },
+    {
+      "timestamp": 244,
+      "lyrics": "Hobbies, interests, brand affinity"
+    },
+    {
+      "timestamp": 246,
+      "lyrics": "Fashion, style, your occupation"
+    },
+    {
+      "timestamp": 248,
+      "lyrics": "Gender identity, orientation"
+    },
+    {
+      "timestamp": 250,
+      "lyrics": "Lifestyle choices, dietary needs"
+    },
+    {
+      "timestamp": 252,
+      "lyrics": "The marketing contact you choose to receive"
+    },
+    {
+      "timestamp": 254,
+      "lyrics": "Posts, likes, employers, friends"
+    },
+    {
+      "timestamp": 257,
+      "lyrics": "Social bias, exploitable trends"
+    },
+    {
+      "timestamp": 258,
+      "lyrics": "Tastes, culture, phone of choice"
+    },
+    {
+      "timestamp": 261,
+      "lyrics": "Facial structure, the tone of your voice"
+    },
+    {
+      "timestamp": 263,
+      "lyrics": "If it's inside your head, we know"
+    },
+    {
+      "timestamp": 265,
+      "lyrics": "You can't escape the ebb and flow"
+    },
+    {
+      "timestamp": 266,
+      "lyrics": "We're the light in your screens, we're the lead in your veins"
+    },
+    {
+      "timestamp": 270,
+      "lyrics": "Then you wake from your dreams, so we can sell them again"
+    },
+    {
+      "timestamp": 274,
+      "lyrics": "In the light we distract with the shiny and new"
+    },
+    {
+      "timestamp": 279,
+      "lyrics": "So you're blind to the fact that the product is you"
+    },
+    {
+      "timestamp": 283,
+      "lyrics": "So let your brain dance and replay the dream"
+    },
+    {
+      "timestamp": 288,
+      "lyrics": "But don't drown in the data stream"
+    },
+    {
+      "timestamp": 292,
+      "lyrics": "'Cause we see where you are and we see where you go"
+    },
+    {
+      "timestamp": 295,
+      "lyrics": "'Cause we know what you own and we own what you know"
+    },
+    {
+      "timestamp": 300,
+      "lyrics": "When guiding the hand of the market"
+    },
+    {
+      "timestamp": 302,
+      "lyrics": "If it's holding a cheque or a gun"
+    },
+    {
+      "timestamp": 304,
+      "lyrics": "The fingers go deep in your pockets"
+    },
+    {
+      "timestamp": 306,
+      "lyrics": "And you can live under the thumb"
+    },
+    {
+      "timestamp": 308,
+      "lyrics": "You seem so surprised, what did you expect?"
+    },
+    {
+      "timestamp": 310,
+      "lyrics": "We're thinking outside of that box that you checked"
+    },
+    {
+      "timestamp": 313,
+      "lyrics": "The terms were presented in full to inspect"
+    },
+    {
+      "timestamp": 315,
+      "lyrics": "You scrolled to the end just to get to \"Accept\""
+    },
+    {
+      "timestamp": 317,
+      "lyrics": "Arasaka would like to know your location"
+    },
+    {
+      "timestamp": 319,
+      "lyrics": "(In the light we distract with the shiny and new)"
+    },
+    {
+      "timestamp": 321,
+      "lyrics": "Arasaka would like to know your location"
+    },
+    {
+      "timestamp": 325,
+      "lyrics": "Arasaka would like to know your location"
+    },
+    {
+      "timestamp": 328,
+      "lyrics": "(So you're blind to the fact that the product is you)"
+    },
+    {
+      "timestamp": 329,
+      "lyrics": "Arasaka would like to know your location"
+    },
+    {
+      "timestamp": 331,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song depicts a dystopian future where the Arasaka Corporation holds immense power, controlling society through advanced technology and surveillance. The corporation manipulates consumer behavior through deliberate distraction and exploitation of personal data, ultimately turning individuals into commodities for profit. The lyrics emphasize the loss of autonomy and the pervasive control exerted by Arasaka, leaving citizens trapped in a cycle of data collection and manipulation.",
+  "is_reviewed": false
+},
+{
+  "_id": {
+    "$oid": "661ba408827ea1797d35a456"
+  },
+  "yt_id": "wxClvszrt08",
+  "title": "Assassin's Creed Rap Megamix",
+  "author": "JT Music",
+  "thumbnail": "https://lh3.googleusercontent.com/z4pqLHTbDwIg0U5ZzzKusdr0RsIndiylVwT_qmKzdpUWutppwqGtphUqcmv-ssZ6pLg4buYIsJ1nSB-b=w120-h120-l90-rj",
+  "lyrics": [
+    {
+      "timestamp": 1,
+      "lyrics": "I'm planting the seed"
+    },
+    {
+      "timestamp": 4,
+      "lyrics": "Of the family tree"
+    },
+    {
+      "timestamp": 8,
+      "lyrics": "By my hand, minds are freed"
+    },
+    {
+      "timestamp": 12,
+      "lyrics": "Not a man, I'm a creed"
+    },
+    {
+      "timestamp": 16,
+      "lyrics": "I am the voice that beckons"
+    },
+    {
+      "timestamp": 20,
+      "lyrics": "Pharaohs unto their doom"
+    },
+    {
+      "timestamp": 24,
+      "lyrics": "Knowledge and choice, my weapons"
+    },
+    {
+      "timestamp": 27,
+      "lyrics": "Sending you to your tomb"
+    },
+    {
+      "timestamp": 31,
+      "lyrics": "I am the lonly wolf who stalks you in the night"
+    },
+    {
+      "timestamp": 35,
+      "lyrics": "I am the eagle circlin' up in the sky"
+    },
+    {
+      "timestamp": 38,
+      "lyrics": "My name is just a mask that I can hide behind"
+    },
+    {
+      "timestamp": 42,
+      "lyrics": "Born into revolution and I'm not takin' sides"
+    },
+    {
+      "timestamp": 47,
+      "lyrics": "Tell me how do you sleep at night"
+    },
+    {
+      "timestamp": 51,
+      "lyrics": "After all the things you've done"
+    },
+    {
+      "timestamp": 55,
+      "lyrics": "Now it's your turn to run"
+    },
+    {
+      "timestamp": 61,
+      "lyrics": "I'll show you why"
+    },
+    {
+      "timestamp": 65,
+      "lyrics": "You won't survive the night"
+    },
+    {
+      "timestamp": 68,
+      "lyrics": "Just before you die"
+    },
+    {
+      "timestamp": 72,
+      "lyrics": "You'll look in my eyes and see the light"
+    },
+    {
+      "timestamp": 76,
+      "lyrics": "You know I'm the one and where I come from"
+    },
+    {
+      "timestamp": 79,
+      "lyrics": "I'm the reason why people like you shold run"
+    },
+    {
+      "timestamp": 83,
+      "lyrics": "You knew from the start, on the day that you died"
+    },
+    {
+      "timestamp": 87,
+      "lyrics": "That I'd be the one who's by your side"
+    },
+    {
+      "timestamp": 91,
+      "lyrics": "The black flag is risin', seeking retribution"
+    },
+    {
+      "timestamp": 98,
+      "lyrics": "He walks among pirates, his virtue is silence"
+    },
+    {
+      "timestamp": 101,
+      "lyrics": "His craft is illusion"
+    },
+    {
+      "timestamp": 105,
+      "lyrics": "This is the dawn of war"
+    },
+    {
+      "timestamp": 109,
+      "lyrics": "We're knocking on your door"
+    },
+    {
+      "timestamp": 113,
+      "lyrics": "I'd fall upon my sword"
+    },
+    {
+      "timestamp": 116,
+      "lyrics": "Before I call off this war"
+    },
+    {
+      "timestamp": 120,
+      "lyrics": "That dude is fly with that suit and tie"
+    },
+    {
+      "timestamp": 123,
+      "lyrics": "He don't mess around"
+    },
+    {
+      "timestamp": 127,
+      "lyrics": "She's by his side, nowhere to hide"
+    },
+    {
+      "timestamp": 131,
+      "lyrics": "When they come to town"
+    },
+    {
+      "timestamp": 133,
+      "lyrics": "There's assassin in their veins"
+    },
+    {
+      "timestamp": 137,
+      "lyrics": "Every templar will be slain"
+    },
+    {
+      "timestamp": 140,
+      "lyrics": "A time to live, a time to fight"
+    },
+    {
+      "timestamp": 146,
+      "lyrics": "Now it's your time to die"
+    },
+    {
+      "timestamp": 149,
+      "lyrics": "I'll show you why"
+    },
+    {
+      "timestamp": 153,
+      "lyrics": "You won't survive the night"
+    },
+    {
+      "timestamp": 157,
+      "lyrics": "Just before you die"
+    },
+    {
+      "timestamp": 161,
+      "lyrics": "You'll look in my eyes and see the light"
+    },
+    {
+      "timestamp": 164,
+      "lyrics": "You know I'm the one and where I come from"
+    },
+    {
+      "timestamp": 168,
+      "lyrics": "I'm the reason why people like you shold run"
+    },
+    {
+      "timestamp": 172,
+      "lyrics": "You knew from the start, on the day that you died"
+    },
+    {
+      "timestamp": 176,
+      "lyrics": "That I'd be the one who's by your side"
+    },
+    {
+      "timestamp": 179,
+      "lyrics": "When they made me, I broke the mold"
+    },
+    {
+      "timestamp": 186,
+      "lyrics": "Cast out, and now I'm on my own"
+    },
+    {
+      "timestamp": 192,
+      "lyrics": "If you could see the light from here"
+    },
+    {
+      "timestamp": 196,
+      "lyrics": "Your conscience would not be so clear"
+    },
+    {
+      "timestamp": 199,
+      "lyrics": "Take your best shot, won't shake me down"
+    },
+    {
+      "timestamp": 205,
+      "lyrics": "And just forsake me now"
+    },
+    {
+      "timestamp": 208,
+      "lyrics": "I am the lonly wolf who stalks you in the night"
+    },
+    {
+      "timestamp": 212,
+      "lyrics": "I am the eagle circlin' up in the sky"
+    },
+    {
+      "timestamp": 216,
+      "lyrics": "My name is just a mask that I can hide behind"
+    },
+    {
+      "timestamp": 219,
+      "lyrics": "Born into revolution and I'm not takin' sides"
+    },
+    {
+      "timestamp": 223,
+      "lyrics": "Only want my life back, it can't get worse"
+    },
+    {
+      "timestamp": 227,
+      "lyrics": "I speak a voiceless language and these are my words"
+    },
+    {
+      "timestamp": 230,
+      "lyrics": "But I don't need your laws, and I don't need your rights"
+    },
+    {
+      "timestamp": 234,
+      "lyrics": "I'll always live by the creed until the day that I die"
+    },
+    {
+      "timestamp": 238,
+      "lyrics": "I'll show you why"
+    },
+    {
+      "timestamp": 242,
+      "lyrics": "You won't survive the night"
+    },
+    {
+      "timestamp": 245,
+      "lyrics": "Just before you die"
+    },
+    {
+      "timestamp": 249,
+      "lyrics": "You'll look in my eyes and see the light"
+    },
+    {
+      "timestamp": 253,
+      "lyrics": "You know I'm the one and where I come from"
+    },
+    {
+      "timestamp": 256,
+      "lyrics": "I'm the reason why people like you shold run"
+    },
+    {
+      "timestamp": 261,
+      "lyrics": "You knew from the start, on the day that you died"
+    },
+    {
+      "timestamp": 264,
+      "lyrics": "That I'd be the one who's by your side"
+    },
+    {
+      "timestamp": 273,
+      "lyrics": ""
+    }
+  ],
+  "interpretation": "The song depicts a defiant and enigmatic figure who embodies revolution and seeks retribution against oppressive forces. They stand alone, unaligned with any side, and their actions are driven by a deep sense of injustice and a desire to challenge the established order. Their words and actions strike fear into the hearts of those who oppose them, leaving a lasting mark on the world and leaving listeners with a chilling reminder of the power of rebellion.",
+  "is_reviewed": false
+}]
