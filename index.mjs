@@ -191,7 +191,7 @@ app.get('/v1/lyrics/:author/:title/:yt_id', async (req, res) => {
           })
         } else {
           // fetch(`https://lyrics-finder-api.vercel.app/lyrics?song=${req.params.title + ' ' + req.params.author}`) // Without timestamps
-          fetch(`http://localhost:80/LyricLensAPI/lyrics/lyrics.php?q=${req.params.title + ' ' + req.params.author}&type=default`) // With timestamps
+          fetch(`http://localhost:80/LyricLensAPI/lyrics.php?q=${req.params.title + ' ' + req.params.author}&type=default`) // With timestamps
             .then((response) => response.json())
             .then((data) => {
               res.status(200).send({
