@@ -1,5 +1,6 @@
 // List of endpoints:
-// 1. Authentication
+// 1.1 Authentication
+// 1.2 Logout
 
 // 2. USERS ENDPOINTS
 // 2.1 GET user details by ID
@@ -7,6 +8,7 @@
 // 3. MUSIC ENDPOINTS
 // 3.1 POST search music
 // 3.2 GET lyrics
+// 3.3 POST lyrics to Gemini
 
 import express from 'express';
 import bcrypt from 'bcrypt';
@@ -45,7 +47,7 @@ app.use((req, res, next) => {
   next();
 });
 
-// 1. Authentication
+// 1.1 Authentication
 app.post('/v1/authentication', async (req, res) => {
   try {
     const { email, username, password } = req.body;
@@ -87,7 +89,7 @@ app.post('/v1/authentication', async (req, res) => {
         username,
         password: hashedPassword,
         photo: null,
-        'rec-metadata': [],
+        history: [],
         stats: {
           'listening_time': 0,
           'music_count': 0,
@@ -118,6 +120,30 @@ app.post('/v1/authentication', async (req, res) => {
     });
   }
 });
+
+// 1.2 Logout
+app.post('/v1/logout', async (req, res) => {
+  try {
+    const token = req.header('Authorization').replace('Bearer ', '');
+    const user = await db.collection('users').findOne({ token });
+    if (user) {
+      await db.collection('users').updateOne({ _id: user._id }, {
+        $set: {
+          token: null,
+        }
+      });
+      res.status(200).send({
+        message: "Logout successful",
+      });
+    }
+  }
+  catch (error) {
+    console.log(error);
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    })
+  }
+})
 
 
 // 2.1 GET user details by ID
