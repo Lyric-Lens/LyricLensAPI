@@ -145,7 +145,6 @@ app.post('/v1/logout', async (req, res) => {
   }
 })
 
-
 // 2.1 GET user details by ID
 app.get('/v1/users/:id', async (req, res) => {
   try {
@@ -169,6 +168,36 @@ app.get('/v1/users/:id', async (req, res) => {
     res.status(500).send({
       message: "Something went wrong with the server",
     });
+  }
+})
+
+// 2.2 POST update user stats
+app.post('/v1/users/:id/stats', async (req, res) => {
+  try {
+    const id = req.params.id;
+    const token = req.header('Authorization').replace('Bearer ', '');
+    const user = await db.collection('users').findOne({ _id: new ObjectId(id) });
+    if (user && user.token === token) {
+      await db.collection('users').updateOne({ _id: new ObjectId(id) }, {
+        $set: {
+          history: req.body.history,
+        },
+        $inc: {
+          'stats.listening_time': req.body.listeningTime,
+          'stats.music_count': req.body.musicCount,
+          // TODO: 'stats.playlist_count': req.body.playlistCount, // add when finished with playlist system
+        }
+      });
+      res.status(200).send({
+        message: "User stats updated",
+      });
+    }
+  }
+  catch (error) {
+    console.log(error);
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    })
   }
 })
 
