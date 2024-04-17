@@ -28,7 +28,7 @@ let db;
 (async () => {
   try {
     const client = await MongoClient.connect(process.env.MONGODB_URI);
-    db = client.db('lyric-lens-dev');
+    db = client.db(process.env.DATABASE_NAME);
   } catch (error) {
     console.error(error);
   }
