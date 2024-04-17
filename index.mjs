@@ -28,7 +28,7 @@ let db;
 (async () => {
   try {
     const client = await MongoClient.connect(process.env.MONGODB_URI);
-    db = client.db('lyric-lens');
+    db = client.db('lyric-lens-dev');
   } catch (error) {
     console.error(error);
   }
@@ -286,6 +286,7 @@ app.post('/v1/lyrics/gemini', async (req, res) => {
         if (music) {
           res.status(200).send({
             message: "Music already stored in database",
+            is_reviewed: music.is_reviewed,
             interpretation: music.interpretation,
           })
         }
@@ -347,7 +348,7 @@ app.post('/v1/lyrics/gemini', async (req, res) => {
               is_reviewed: false
             });
       
-            return { 'message': "Response by Gemini success", 'ai_request': prompt + '\n \n' + "Analyze and explain the meaning of the song lyrics above in very short and concise manner, if possible below 4 sentences (1 paragraph). Do not assume the title or the author of the song", 'interpretation': response.text() };
+            return { 'message': "Response by Gemini success", 'is_reviewed': false, 'interpretation': response.text() };
           }
           res.status(200).send(await run());
         }
