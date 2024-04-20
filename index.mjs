@@ -1,6 +1,9 @@
+// 0. MIDDLEWARES
+// 0.1 CORS
+
 // List of endpoints:
-// 1.1 Authentication
-// 1.2 Logout
+// 1.1 POST authentication
+// 1.2 POST logout
 
 // 2. USERS ENDPOINTS
 // 2.1 GET user details by ID
@@ -10,19 +13,31 @@
 // 3.2 GET lyrics
 // 3.3 POST lyrics to Gemini
 
+// 4. MODERATOR ENDPOINTS
+// 4.1 POST authentication
+// 4.2 POST logout
+// 4.3 POST check auth
+// 4.4 POST create new moderator
+
+// Import depedencies
 import express from 'express';
 import bcrypt from 'bcrypt';
 import { MongoClient, ObjectId } from 'mongodb';
 import dotenv from 'dotenv';
 import { searchMusics } from 'node-youtube-music'
 import { GoogleGenerativeAI, HarmBlockThreshold, HarmCategory } from '@google/generative-ai';
+import { v4 as uuidv4 } from 'uuid';
 
+// Init API
 const app = express();
 
+// Init env
 dotenv.config();
 
+// Convert all res and req to json
 app.use(express.json());
 
+// Init db
 let db;
 
 (async () => {
@@ -34,7 +49,7 @@ let db;
   }
 })();
 
-// 0. CORS stuff
+// 0.1 CORS stuff
 app.use((req, res, next) => {
   const origin = req.header('Origin');
   if (!origin) {
@@ -47,7 +62,7 @@ app.use((req, res, next) => {
   next();
 });
 
-// 1.1 Authentication
+// 1.1 POST Authentication
 app.post('/v1/authentication', async (req, res) => {
   try {
     const { email, username, password } = req.body;
@@ -121,7 +136,7 @@ app.post('/v1/authentication', async (req, res) => {
   }
 });
 
-// 1.2 Logout
+// 1.2 POST Logout
 app.post('/v1/logout', async (req, res) => {
   try {
     const token = req.header('Authorization').replace('Bearer ', '');
@@ -238,11 +253,11 @@ app.get('/v1/lyrics/:author/:title/:yt_id', async (req, res) => {
       const user = await db.collection('users').findOne({ token });
       if (user) {
         // Check if music already exist in database
-        const music = await db.collection('lyrics').findOne({ yt_id: req.params.yt_id });
+        const music = await db.collection('musics').findOne({ yt_id: req.params.yt_id });
         if (music) {
           res.status(200).send({
             message: "Lyrics found in database",
-            lyrics: music.lyrics
+            lyrics: { lyrics: music.lyrics }
           })
         } else {
           // fetch(`https://lyrics-finder-api.vercel.app/lyrics?song=${req.params.title + ' ' + req.params.author}`) // Without timestamps
@@ -352,6 +367,122 @@ app.post('/v1/lyrics/gemini', async (req, res) => {
           }
           res.status(200).send(await run());
         }
+      }
+    }
+  }
+  catch (error) {
+    console.log(error);
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    })
+  }
+})
+
+// 4.1 POST authentication
+app.post('/v1/moderator/auth/:code', async (req, res) => {
+  try {
+    const code = req.params.code;
+    const moderator = await db.collection('moderators').findOne({ code });
+    if (moderator && moderator.is_used === false) {
+      await db.collection('moderators').updateOne({ _id: moderator._id }, {
+        $set: {
+          is_used: true
+        }
+      })
+      res.status(200).send({
+        message: "Moderator authenticated",
+        code: moderator.code,
+        level: moderator.level
+      })
+    } else {
+      res.status(401).send({
+        message: "Moderator not found or not authenticated",
+      })
+    }
+  }
+  catch (error) {
+    console.log(error);
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    })
+  }
+})
+
+// 4.2 POST logout
+app.post('/v1/moderator/auth/logout/:code', async (req, res) => {
+  try {
+    const code = req.params.code;
+    const moderator = await db.collection('moderators').findOne({ code });
+    if (moderator && moderator.is_used === true) {
+      await db.collection('moderators').updateOne({ _id: moderator._id }, {
+        $set: {
+          is_used: false
+        }
+      })
+      res.status(200).send({
+        message: "Moderator logged out",
+      })
+    } else {
+      res.status(401).send({
+        message: "Moderator not found or not authenticated",
+      })
+    }
+  }
+  catch (error) {
+    console.log(error);
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    })
+  }
+})
+
+// 4.3 POST check auth
+app.post('/v1/moderator/auth/check/:code', async (req, res) => {
+  try {
+    const code = req.params.code;
+    const moderator = await db.collection('moderators').findOne({ code });
+    if (moderator && moderator.is_used === true) {
+      res.status(200).send({
+        message: "Moderator authenticated",
+        code: moderator.code,
+        level: moderator.level
+      })
+    } else {
+      res.status(401).send({
+        message: "Moderator not found or not authenticated",
+      })
+    }
+  }
+  catch (error) {
+    console.log(error);
+    res.status(500).send({
+      message: "Something went wrong with the server",
+    })
+  }
+})
+
+// 4.4 POST create new moderator
+app.post('/v1/moderator/:code', async (req, res) => {
+  try {
+    const code = req.params.code;
+    const moderator = await db.collection('moderators').findOut({ code });
+    if (moderator && moderator.level === 2) {
+      let newCode = uuidv4();
+      newCode = (await db.collection('moderators').findOne({ code: newCode })) ? uuidv4() : newCode;
+      const newModerator = await db.collection('moderators').insertOne({
+        code: newCode,
+        level: 1,
+        is_used: false
+      })
+      if (newModerator) {
+        res.status(200).send({
+          message: "Moderator created",
+          code: newCode
+        })
+      } else {
+        res.status(500).send({
+          message: "Something went wrong with the server",
+        })
       }
     }
   }
